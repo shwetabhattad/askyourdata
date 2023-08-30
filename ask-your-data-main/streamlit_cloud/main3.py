@@ -17,6 +17,7 @@ from pandasai.llm.openai import OpenAI
 import csv
 import datetime
 import streamlit_authenticator as stauth
+from PIL import Image
 #print(user,pwd,db,host)
 
 #matplotlib.use("TkAgg")
@@ -193,7 +194,7 @@ def main():
             if question and apikey and gitapikey:
                 print(question)
                 write_login_to_csv(question, username,gitapikey)
-                plt.ion()
+                #plt.ion()
                 llm = OpenAI(api_token=apikey)
                 pandas_ai = PandasAI(llm)
                 #graphContinueExecutionText = " Use plt.show(block = false)"
@@ -201,6 +202,9 @@ def main():
                 answer = pandas_ai.run(gpr_df,question)
                 if type(answer)==str:
                     st.write(answer)
+                image = Image.open(current_dir/exports/charts/"temp_chart.png")
+                if image:
+                    st.image(image, caption='Graph')
 
         elif option=='Largest US Companies':
             print('here')
