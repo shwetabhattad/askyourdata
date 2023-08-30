@@ -95,42 +95,42 @@ def main():
         st.markdown("<h6 style='text-align: center; color: black;'>Average kpi value for different work status </h6>", unsafe_allow_html=True)
         st.bar_chart(data=kpi_work_site)
     def write_login_to_csv(operation, username, gitapikey):
-        #now = datetime.datetime.now()
-        #timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
-        # with open("current_dir/login_details.csv", mode="a", newline="") as file:
-        #     writer = csv.writer(file)
-        #     writer.writerow([username, operation, timestamp])
-        ist_timezone = pytz.timezone('Asia/Kolkata')
-        current_time_ist = datetime.datetime.now(ist_timezone)
-        timestamp = current_time_ist.strftime("%Y-%m-%d %H:%M:%S")
-        api_url="https://api.github.com/repos/shwetabhattad/askyourdata/contents/streamlit_cloud/login_details.csv"
+        now = datetime.datetime.now()
+        timestamp = now.strftime("%Y-%m-%d %H:%M:%S")
+        with open(current_dir/"login_details.csv", mode="a", newline="") as file:
+             writer = csv.writer(file)
+             writer.writerow([username, operation, timestamp])
+        #ist_timezone = pytz.timezone('Asia/Kolkata')
+        #current_time_ist = datetime.datetime.now(ist_timezone)
+        #timestamp = current_time_ist.strftime("%Y-%m-%d %H:%M:%S")
+        #api_url="https://api.github.com/repos/shwetabhattad/askyourdata/contents/streamlit_cloud/login_details.csv"
         #api_url = f"https://api.github.com/repos/Gkannan03/google-bard-ai/contents/TaskGPT-Google_PaLM/Log_details/login_details.csv"
-        github_token = gitapikey
-        headers = {
-        "Authorization": f"Bearer {github_token}"
-        }
-        response = requests.get(api_url, headers=headers)
-        file_data = response.json()
+        #github_token = gitapikey
+        #headers = {
+        #"Authorization": f"Bearer {github_token}"
+        #}
+        #response = requests.get(api_url, headers=headers)
+        #file_data = response.json()
 
-        raw_content_url = file_data["download_url"]
-        response = requests.get(raw_content_url)
-        current_content = response.text
+        #raw_content_url = file_data["download_url"]
+        #response = requests.get(raw_content_url)
+        #current_content = response.text
 
-        new_data = f"{operation},{username},{timestamp}\n"
-        new_content = current_content + new_data
-        new_content_encoded = base64.b64encode(new_content.encode("utf-8")).decode("utf-8")
-        commit_message = "Update login details in CSV"
-        payload = {
-        "message": commit_message,
-        "content": new_content_encoded,
-        "sha": file_data["sha"]
-        }
+        #new_data = f"{operation},{username},{timestamp}\n"
+        #new_content = current_content + new_data
+        #new_content_encoded = base64.b64encode(new_content.encode("utf-8")).decode("utf-8")
+        #commit_message = "Update login details in CSV"
+        #payload = {
+        #"message": commit_message,
+        #"content": new_content_encoded,
+        #"sha": file_data["sha"]
+        #}
 
-        response = requests.put(api_url, json=payload, headers=headers)
-        if response.status_code == 200:
-           print("Data successfully written to the CSV file on GitHub.")
-        else:
-           print("Failed to update data in the CSV file.")
+        #response = requests.put(api_url, json=payload, headers=headers)
+        #if response.status_code == 200:
+        #   print("Data successfully written to the CSV file on GitHub.")
+        #else:
+        #   print("Failed to update data in the CSV file.")
     st.set_page_config(page_title= 'Ask Your Data - TaskGPT', layout="wide")
     names = ['Join Prime','Join Walmart plus','shweta','aravind','manish','kannan','abdul','aastha','deepika','abhilash','yahya','sangeetha','praveen','shubham','ralph']
     usernames = ['amazon','walmart','shweta.bhattad@taskus.com','aravind.ramesh@taskus.com','manish.pandya@taskus.com','kannan.g@taskus.com',
