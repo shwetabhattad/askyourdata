@@ -19,7 +19,7 @@ import datetime
 import streamlit_authenticator as stauth
 #print(user,pwd,db,host)
 
-matplotlib.use("TkAgg")
+#matplotlib.use("TkAgg")
 from pathlib import Path
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 #from current_dir/configuration/"githubkey.py" import gitapikey
@@ -199,8 +199,8 @@ def main():
                 #graphContinueExecutionText = " Use plt.show(block = false)"
                 #question += graphContinueExecutionText
                 answer = pandas_ai.run(gpr_df,question)
-                
-                st.write(answer)
+                if type(answer)==str:
+                    st.write(answer)
 
         elif option=='Largest US Companies':
             print('here')
