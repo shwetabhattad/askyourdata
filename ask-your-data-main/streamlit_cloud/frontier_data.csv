@@ -1,0 +1,893 @@
+id,month_year,region,site_name,work_site_status,kpi_source,lob,kpi_name_w_subtypes,numerator,denominator,kpi_value,goal,kpi_attainment,goal_type,kpi_unit_of_measure,kpi_attainment_v2,kpi_value_vs_goal,kpi_value2,kpi_value_2,month,year
+0,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Accuracy ALE,"34,177.00","62,459.00",0.55,0.35,1.0,higher is better,%,1,0.2,0.55,0.55,1,2023
+1,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Accuracy ALE,"31,895.00","53,425.00",0.6,0.37,1.0,higher is better,%,1,0.23,0.60,0.60,2,2023
+2,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Accuracy ALE,"27,622.00","52,089.00",0.53,0.37,1.0,higher is better,%,1,0.16,0.53,0.53,3,2023
+3,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Accuracy ALE,"27,876.00","50,442.00",0.55,0.37,1.0,higher is better,%,1,0.18,0.55,0.55,4,2023
+4,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Precision ALE,"20,718.00","26,196.00",0.79,0.7,1.0,higher is better,%,1,0.09,0.79,0.79,1,2023
+5,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Precision ALE,"20,309.00","23,713.00",0.86,0.73,1.0,higher is better,%,1,0.12,0.86,0.86,2,2023
+6,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Precision ALE,"20,612.00","24,803.00",0.83,0.73,1.0,higher is better,%,1,0.1,0.83,0.83,3,2023
+7,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Precision ALE,"19,249.00","24,374.00",0.79,0.73,1.0,higher is better,%,1,0.05,0.79,0.79,4,2023
+8,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Recall ALE,"20,718.00","28,924.00",0.72,0.56,1.0,higher is better,%,1,0.16,0.72,0.72,1,2023
+9,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Recall ALE,"20,309.00","27,166.00",0.75,0.61,1.0,higher is better,%,1,0.14,0.75,0.75,2,2023
+10,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Recall ALE,"20,612.00","26,504.00",0.78,0.61,1.0,higher is better,%,1,0.17,0.78,0.78,3,2023
+11,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,ALE,Recall ALE,"19,249.00","26,059.00",0.74,0.61,1.0,higher is better,%,1,0.13,0.74,0.74,4,2023
+12,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Accuracy,"82,599.00","88,708.00",0.93,0.87,1.0,higher is better,%,1,0.06,0.93,0.93,1,2023
+13,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Accuracy,"4,109.00","4,435.00",0.93,0.87,1.0,higher is better,%,1,0.06,0.93,0.93,1,2023
+14,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Accuracy,189.00,205.00,0.92,0.87,1.0,higher is better,%,1,0.05,0.92,0.92,1,2023
+15,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Accuracy,"122,247.00","131,459.00",0.93,0.87,1.0,higher is better,%,1,0.06,0.93,0.93,1,2023
+16,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Accuracy,"68,588.00","75,321.00",0.91,0.87,1.0,higher is better,%,1,0.04,0.91,0.91,2,2023
+17,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Accuracy,"3,019.00","3,317.00",0.91,0.87,1.0,higher is better,%,1,0.04,0.91,0.91,2,2023
+18,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier BI,BI - Political,Accuracy,"1,063.00","1,302.00",0.82,0.87,0.0,higher is better,%,0,-0.05,0.82,0.82,2,2023
+19,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Precision,918.00,990.00,0.93,0.92,1.0,higher is better,%,1,0.01,0.93,0.93,2,2023
+20,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Accuracy,"108,527.00","119,193.00",0.91,0.87,1.0,higher is better,%,1,0.04,0.91,0.91,2,2023
+21,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Accuracy,"81,772.00","89,459.00",0.91,0.87,1.0,higher is better,%,1,0.04,0.91,0.91,3,2023
+22,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Accuracy,"3,498.00","3,781.00",0.93,0.87,1.0,higher is better,%,1,0.06,0.93,0.93,3,2023
+23,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier BI,BI - Political,Accuracy,107.00,135.00,0.79,0.87,0.0,higher is better,%,0,-0.08,0.79,0.79,3,2023
+24,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Accuracy,203.00,217.00,0.94,0.87,1.0,higher is better,%,1,0.07,0.94,0.94,3,2023
+25,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Accuracy,"117,295.00","126,905.00",0.92,0.87,1.0,higher is better,%,1,0.05,0.92,0.92,3,2023
+26,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Accuracy,"32,337.00","35,191.00",0.92,0.87,1.0,higher is better,%,1,0.05,0.92,0.92,4,2023
+27,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Accuracy,"1,582.00","1,704.00",0.93,0.87,1.0,higher is better,%,1,0.06,0.93,0.93,4,2023
+28,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Accuracy,89.00,98.00,0.91,0.87,1.0,higher is better,%,1,0.04,0.91,0.91,4,2023
+29,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Accuracy,"65,540.00","70,061.00",0.94,0.87,1.0,higher is better,%,1,0.07,0.94,0.94,4,2023
+30,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Precision,"23,215.00","24,095.00",0.96,0.92,1.0,higher is better,%,1,0.04,0.96,0.96,1,2023
+31,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Precision,"1,035.00","1,080.00",0.96,0.92,1.0,higher is better,%,1,0.04,0.96,0.96,1,2023
+32,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Precision,62.00,66.00,0.94,0.92,1.0,higher is better,%,1,0.02,0.94,0.94,1,2023
+33,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Precision,"40,647.00","42,354.00",0.96,0.92,1.0,higher is better,%,1,0.04,0.96,0.96,1,2023
+34,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Precision,"22,582.00","23,835.00",0.95,0.92,1.0,higher is better,%,1,0.03,0.95,0.95,2,2023
+35,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Recall,918.00,"1,098.00",0.84,0.85,0.0,higher is better,%,0,-0.01,0.84,0.84,2,2023
+36,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier BI,BI - Political,Precision,303.00,344.00,0.88,0.92,0.0,higher is better,%,0,-0.04,0.88,0.88,2,2023
+37,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,ERR,Accuracy,170.00,171.00,0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,2,2023
+38,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Precision,"41,575.00","44,667.00",0.93,0.92,1.0,higher is better,%,1,0.01,0.93,0.93,2,2023
+39,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Precision,"27,704.00","28,922.00",0.96,0.92,1.0,higher is better,%,1,0.04,0.96,0.96,3,2023
+40,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Precision,"1,031.00","1,086.00",0.95,0.92,1.0,higher is better,%,1,0.03,0.95,0.95,3,2023
+41,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier BI,BI - Political,Precision,34.00,40.00,0.85,0.92,0.0,higher is better,%,0,-0.07,0.85,0.85,3,2023
+42,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Precision,71.00,75.00,0.95,0.92,1.0,higher is better,%,1,0.03,0.95,0.95,3,2023
+43,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Precision,"44,867.00","47,584.00",0.94,0.92,1.0,higher is better,%,1,0.02,0.94,0.94,3,2023
+44,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Precision,"9,165.00","9,513.00",0.96,0.92,1.0,higher is better,%,1,0.04,0.96,0.96,4,2023
+45,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Precision,359.00,384.00,0.93,0.92,1.0,higher is better,%,1,0.01,0.93,0.93,4,2023
+46,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Precision,34.00,37.00,0.92,0.92,0.0,higher is better,%,0,-0.0,0.92,0.92,4,2023
+47,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Precision,"24,201.00","25,727.00",0.94,0.92,1.0,higher is better,%,1,0.02,0.94,0.94,4,2023
+48,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Recall,"23,215.00","26,463.00",0.88,0.85,1.0,higher is better,%,1,0.03,0.88,0.88,1,2023
+49,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Recall,"1,035.00","1,219.00",0.85,0.85,0.0,higher is better,%,0,-0.0,0.85,0.85,1,2023
+50,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Recall,62.00,70.00,0.89,0.85,1.0,higher is better,%,1,0.04,0.89,0.89,1,2023
+51,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Recall,"40,647.00","45,226.00",0.9,0.85,1.0,higher is better,%,1,0.05,0.90,0.90,1,2023
+52,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Recall,"22,582.00","26,279.00",0.86,0.85,1.0,higher is better,%,1,0.01,0.86,0.86,2,2023
+53,2023FEB,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,ERR,Accuracy,166.00,166.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+54,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier BI,BI - Political,Recall,303.00,435.00,0.7,0.85,0.0,higher is better,%,0,-0.15,0.70,0.70,2,2023
+55,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,FB Shopping Visual Search,Accuracy,619.00,650.00,0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,2,2023
+56,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Recall,"41,575.00","46,761.00",0.89,0.85,1.0,higher is better,%,1,0.04,0.89,0.89,2,2023
+57,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Recall,"27,704.00","31,706.00",0.87,0.85,1.0,higher is better,%,1,0.02,0.87,0.87,3,2023
+58,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Recall,"1,031.00","1,187.00",0.87,0.85,1.0,higher is better,%,1,0.02,0.87,0.87,3,2023
+59,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier BI,BI - Political,Recall,34.00,48.00,0.71,0.85,0.0,higher is better,%,0,-0.14,0.71,0.71,3,2023
+60,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Recall,71.00,79.00,0.9,0.85,1.0,higher is better,%,1,0.05,0.90,0.90,3,2023
+61,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Recall,"44,867.00","49,069.00",0.91,0.85,1.0,higher is better,%,1,0.06,0.91,0.91,3,2023
+62,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier BI,BI - Political,Recall,"9,165.00","10,754.00",0.85,0.85,1.0,higher is better,%,1,0.0,0.85,0.85,4,2023
+63,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier BI,BI - Political,Recall,359.00,419.00,0.86,0.85,1.0,higher is better,%,1,0.01,0.86,0.86,4,2023
+64,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Recall,34.00,39.00,0.87,0.85,1.0,higher is better,%,1,0.02,0.87,0.87,4,2023
+65,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier BI,BI - Political,Recall,"24,201.00","26,272.00",0.92,0.85,1.0,higher is better,%,1,0.07,0.92,0.92,4,2023
+66,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Precision,"3,175.00","3,319.00",0.96,0.89,1.0,higher is better,%,1,0.07,0.96,0.96,1,2023
+67,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,FB Shopping Visual Search,Average Handle Time,"330,237.55","10,412.00",0.32,0.35,1.0,lower is better,.,1,3.28,31.72,31.72,2,2023
+68,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Precision,"2,516.00","2,600.00",0.97,0.89,1.0,higher is better,%,1,0.08,0.97,0.97,3,2023
+69,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Precision,"2,479.00","2,605.00",0.95,0.89,1.0,higher is better,%,1,0.06,0.95,0.95,4,2023
+70,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Precision,408.00,420.00,0.97,0.89,1.0,higher is better,%,1,0.08,0.97,0.97,5,2023
+71,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Recall,"3,175.00","3,391.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,1,2023
+72,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"156,372.18",389.00,4.02,1.0,0.0,lower is better,.,0,-301.99,401.99,401.99,2,2023
+73,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Recall,"2,516.00","2,683.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,3,2023
+74,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Recall,"2,479.00","2,696.00",0.92,0.85,1.0,higher is better,%,1,0.07,0.92,0.92,4,2023
+75,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Recall,408.00,458.00,0.89,0.85,1.0,higher is better,%,1,0.04,0.89,0.89,5,2023
+76,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Reviewer Reason Accuracy,"8,677.00","9,047.00",0.96,0.84,1.0,higher is better,%,1,0.12,0.96,0.96,1,2023
+77,2023FEB,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Speech Transcription,Accuracy,"7,168.40","7,242.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,2,2023
+78,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Reviewer Reason Accuracy,"5,989.00","6,257.00",0.96,0.84,1.0,higher is better,%,1,0.12,0.96,0.96,3,2023
+79,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Reviewer Reason Accuracy,"5,865.00","6,216.00",0.94,0.84,1.0,higher is better,%,1,0.1,0.94,0.94,4,2023
+80,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Reviewer Reason Accuracy,"1,064.00","1,127.00",0.94,0.84,1.0,higher is better,%,1,0.1,0.94,0.94,5,2023
+81,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Australasia,Precision,112.00,113.00,0.99,0.89,1.0,higher is better,%,1,0.1,0.99,0.99,1,2023
+82,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Precision,"5,557.00","5,859.00",0.95,0.89,1.0,higher is better,%,1,0.06,0.95,0.95,1,2023
+83,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Precision,"2,969.00","3,062.00",0.97,0.89,1.0,higher is better,%,1,0.08,0.97,0.97,2,2023
+84,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Precision,"1,889.00","2,016.00",0.94,0.89,1.0,higher is better,%,1,0.05,0.94,0.94,3,2023
+85,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Precision,"1,798.00","1,859.00",0.97,0.89,1.0,higher is better,%,1,0.08,0.97,0.97,4,2023
+86,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Precision,225.00,238.00,0.95,0.89,1.0,higher is better,%,1,0.06,0.95,0.95,5,2023
+87,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Australasia,Recall,112.00,115.00,0.97,0.85,1.0,higher is better,%,1,0.12,0.97,0.97,1,2023
+88,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Recall,"5,557.00","6,036.00",0.92,0.85,1.0,higher is better,%,1,0.07,0.92,0.92,1,2023
+89,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Recall,"2,969.00","3,089.00",0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,2,2023
+90,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Recall,"1,889.00","1,977.00",0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,3,2023
+91,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Recall,"1,798.00","1,875.00",0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,4,2023
+92,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Recall,225.00,252.00,0.89,0.85,1.0,higher is better,%,1,0.04,0.89,0.89,5,2023
+93,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Australasia,Reviewer Reason Accuracy,187.00,194.00,0.96,0.84,1.0,higher is better,%,1,0.12,0.96,0.96,1,2023
+94,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Reviewer Reason Accuracy,"9,648.00","10,633.00",0.91,0.84,1.0,higher is better,%,1,0.07,0.91,0.91,1,2023
+95,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Agnostic SSI,Reviewer Reason Accuracy,"6,871.00","7,124.00",0.96,0.84,1.0,higher is better,%,1,0.12,0.96,0.96,2,2023
+96,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Reviewer Reason Accuracy,"3,202.00","3,478.00",0.92,0.84,1.0,higher is better,%,1,0.08,0.92,0.92,3,2023
+97,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Reviewer Reason Accuracy,"2,841.00","3,027.00",0.94,0.84,1.0,higher is better,%,1,0.1,0.94,0.94,4,2023
+98,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Reviewer Reason Accuracy,473.00,523.00,0.9,0.84,1.0,higher is better,%,1,0.06,0.90,0.90,5,2023
+99,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Accuracy,"31,068.00","31,663.00",0.98,0.91,1.0,higher is better,%,1,0.07,0.98,0.98,1,2023
+100,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Accuracy,44.00,45.00,0.98,0.91,1.0,higher is better,%,1,0.07,0.98,0.98,4,2023
+101,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Accuracy,52.00,52.00,1.0,0.91,1.0,higher is better,%,1,0.09,1.00,1.00,5,2023
+102,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Average Handle Time,"16,003,367.30","749,336.00",0.21,0.35,1.0,lower is better,.,1,13.64,21.36,21.36,1,2023
+103,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Precision,"2,003.00","2,110.00",0.95,0.89,1.0,higher is better,%,1,0.06,0.95,0.95,2,2023
+104,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Average Handle Time,"14,466,350.64","753,341.00",0.19,0.35,1.0,lower is better,.,1,15.8,19.20,19.20,3,2023
+105,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Average Handle Time,"13,549,331.19","693,251.00",0.2,0.35,1.0,lower is better,.,1,15.46,19.54,19.54,4,2023
+106,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Average Handle Time,"929,817.57","48,326.00",0.19,0.35,1.0,lower is better,.,1,15.76,19.24,19.24,5,2023
+107,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Borderline Hostile Speech,Average Handle Time,"14,511,912.70","258,893.00",0.56,0.6,1.0,lower is better,.,1,3.95,56.05,56.05,1,2023
+108,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Recall,"2,003.00","2,131.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,2,2023
+109,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Borderline Hostile Speech,Average Handle Time,"13,712,083.77","266,565.00",0.51,0.6,1.0,lower is better,.,1,8.56,51.44,51.44,3,2023
+110,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Borderline Hostile Speech,Average Handle Time,"13,193,474.40","246,429.00",0.54,0.6,1.0,lower is better,.,1,6.46,53.54,53.54,4,2023
+111,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Borderline Hostile Speech,Average Handle Time,"778,576.54","15,975.00",0.49,0.6,1.0,lower is better,.,1,11.26,48.74,48.74,5,2023
+112,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Borderline Hostile Speech,Reviewer Reason Accuracy,"4,604.00","5,052.00",0.91,0.84,1.0,higher is better,%,1,0.07,0.91,0.91,4,2023
+113,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Borderline Hostile Speech,Reviewer Reason Accuracy,259.00,298.00,0.87,0.84,1.0,higher is better,%,1,0.03,0.87,0.87,5,2023
+114,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Accuracy,"13,967.00","14,008.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,1,2023
+115,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Accuracy,"12,744.00","13,047.00",0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,4,2023
+116,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Accuracy,"2,024.00","2,063.00",0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,5,2023
+117,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Average Handle Time,"10,493,264.06","247,025.00",0.42,0.55,1.0,lower is better,.,1,12.52,42.48,42.48,1,2023
+118,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Australasia,Reviewer Reason Accuracy,"3,246.00","3,598.00",0.9,0.84,1.0,higher is better,%,1,0.06,0.90,0.90,2,2023
+119,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Average Handle Time,"10,304,379.96","229,930.00",0.45,0.55,1.0,lower is better,.,1,10.18,44.82,44.82,3,2023
+120,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Average Handle Time,"9,077,853.24","214,971.00",0.42,0.55,1.0,lower is better,.,1,12.77,42.23,42.23,4,2023
+121,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Average Handle Time,"941,554.22","24,122.00",0.39,0.55,1.0,lower is better,.,1,15.97,39.03,39.03,5,2023
+122,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Precision,146.00,160.00,0.91,0.89,1.0,higher is better,%,1,0.02,0.91,0.91,1,2023
+123,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Precision,"35,878.00","38,702.00",0.93,0.89,1.0,higher is better,%,1,0.04,0.93,0.93,1,2023
+124,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Precision,85.00,89.00,0.96,0.89,1.0,higher is better,%,1,0.07,0.96,0.96,2,2023
+125,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,B&H Info First,Average Handle Time,"14,359,443.62","656,528.00",0.22,0.35,1.0,lower is better,.,1,13.13,21.87,21.87,2,2023
+126,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Precision,81.00,89.00,0.91,0.89,1.0,higher is better,%,1,0.02,0.91,0.91,3,2023
+127,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Precision,"28,332.00","31,034.00",0.91,0.89,1.0,higher is better,%,1,0.02,0.91,0.91,3,2023
+128,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Precision,188.00,209.00,0.9,0.89,1.0,higher is better,%,1,0.01,0.90,0.90,4,2023
+129,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Precision,"29,238.00","31,923.00",0.92,0.89,1.0,higher is better,%,1,0.03,0.92,0.92,4,2023
+130,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Precision,18.00,20.00,0.9,0.89,1.0,higher is better,%,1,0.01,0.90,0.90,5,2023
+131,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Precision,"3,331.00","3,675.00",0.91,0.89,1.0,higher is better,%,1,0.02,0.91,0.91,5,2023
+132,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Recall,146.00,156.00,0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,1,2023
+133,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Recall,"35,878.00","39,515.00",0.91,0.85,1.0,higher is better,%,1,0.06,0.91,0.91,1,2023
+134,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Recall,85.00,87.00,0.98,0.85,1.0,higher is better,%,1,0.13,0.98,0.98,2,2023
+135,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Borderline Hostile Speech,Average Handle Time,"12,837,717.58","239,786.00",0.54,0.6,1.0,lower is better,.,1,6.46,53.54,53.54,2,2023
+136,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Recall,81.00,82.00,0.99,0.85,1.0,higher is better,%,1,0.14,0.99,0.99,3,2023
+137,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Recall,"28,332.00","30,254.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,3,2023
+138,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Recall,188.00,204.00,0.92,0.85,1.0,higher is better,%,1,0.07,0.92,0.92,4,2023
+139,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Recall,"29,238.00","32,123.00",0.91,0.85,1.0,higher is better,%,1,0.06,0.91,0.91,4,2023
+140,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Recall,18.00,20.00,0.9,0.85,1.0,higher is better,%,1,0.05,0.90,0.90,5,2023
+141,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Recall,"3,331.00","3,751.00",0.89,0.85,1.0,higher is better,%,1,0.04,0.89,0.89,5,2023
+142,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Reviewer Reason Accuracy,265.00,302.00,0.88,0.84,1.0,higher is better,%,1,0.04,0.88,0.88,1,2023
+143,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Reviewer Reason Accuracy,"71,944.00","80,815.00",0.89,0.84,1.0,higher is better,%,1,0.05,0.89,0.89,1,2023
+144,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Reviewer Reason Accuracy,157.00,166.00,0.95,0.84,1.0,higher is better,%,1,0.11,0.95,0.95,2,2023
+145,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,CIS,Average Handle Time,"9,355,012.79","247,501.00",0.38,0.55,1.0,lower is better,.,1,17.2,37.80,37.80,2,2023
+146,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Reviewer Reason Accuracy,171.00,184.00,0.93,0.84,1.0,higher is better,%,1,0.09,0.93,0.93,3,2023
+147,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Reviewer Reason Accuracy,"58,315.00","64,688.00",0.9,0.84,1.0,higher is better,%,1,0.06,0.90,0.90,3,2023
+148,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Reviewer Reason Accuracy,384.00,430.00,0.89,0.84,1.0,higher is better,%,1,0.05,0.89,0.89,4,2023
+149,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Reviewer Reason Accuracy,"57,296.00","65,268.00",0.88,0.84,1.0,higher is better,%,1,0.04,0.88,0.88,4,2023
+150,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Content Security,Reviewer Reason Accuracy,36.00,43.00,0.84,0.84,0.0,higher is better,%,0,-0.0,0.84,0.84,5,2023
+151,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Reviewer Reason Accuracy,"7,621.00","8,680.00",0.88,0.84,1.0,higher is better,%,1,0.04,0.88,0.88,5,2023
+152,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Crowsourced,Average Handle Time,"424,627.59","8,107.00",0.52,0.6,1.0,lower is better,.,1,7.62,52.38,52.38,3,2023
+153,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,FB FAWG,Accuracy,"2,007.00","2,011.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,1,2023
+154,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Accuracy,"391,944.00","393,982.00",0.99,0.98,1.0,higher is better,%,1,0.01,0.99,0.99,1,2023
+155,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Precision,"25,455.00","28,056.00",0.91,0.89,1.0,higher is better,%,1,0.02,0.91,0.91,2,2023
+156,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Accuracy,"273,648.00","274,704.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,3,2023
+157,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Accuracy,"287,083.00","289,063.00",0.99,0.98,1.0,higher is better,%,1,0.01,0.99,0.99,4,2023
+158,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Accuracy,"86,509.00","86,928.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,5,2023
+159,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,FB FAWG,Average Handle Time,"316,309.87","42,318.00",0.07,0.08,1.0,lower is better,.,1,0.93,7.47,7.47,1,2023
+160,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Average Handle Time,"62,806,532.08","8,699,534.00",0.07,0.08,1.0,lower is better,.,1,1.18,7.22,7.22,1,2023
+161,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,FB FAWG,Average Handle Time,"483,581.91","72,395.00",0.07,0.08,1.0,lower is better,.,1,1.72,6.68,6.68,2,2023
+162,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Recall,"25,455.00","27,077.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,2,2023
+163,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,FB FAWG,Average Handle Time,"23,464.27","3,241.00",0.07,0.08,1.0,lower is better,.,1,1.16,7.24,7.24,3,2023
+164,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Average Handle Time,"40,771,606.77","6,774,519.00",0.06,0.08,1.0,lower is better,.,1,2.38,6.02,6.02,3,2023
+165,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Average Handle Time,"34,572,034.01","5,462,020.00",0.06,0.08,1.0,lower is better,.,1,2.07,6.33,6.33,4,2023
+166,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Average Handle Time,"3,018,894.69","545,106.00",0.06,0.08,1.0,lower is better,.,1,2.86,5.54,5.54,5,2023
+167,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Precision,"15,212.00","16,195.00",0.94,0.89,1.0,higher is better,%,1,0.05,0.94,0.94,1,2023
+168,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Content Security,Reviewer Reason Accuracy,"53,363.00","59,265.00",0.9,0.84,1.0,higher is better,%,1,0.06,0.90,0.90,2,2023
+169,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Precision,"11,148.00","11,483.00",0.97,0.89,1.0,higher is better,%,1,0.08,0.97,0.97,3,2023
+170,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Precision,"12,207.00","12,614.00",0.97,0.89,1.0,higher is better,%,1,0.08,0.97,0.97,4,2023
+171,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Precision,"1,612.00","1,818.00",0.89,0.89,0.0,higher is better,%,0,-0.0,0.89,0.89,5,2023
+172,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Recall,"15,212.00","16,250.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,1,2023
+173,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Accuracy,"290,679.00","291,255.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,2,2023
+174,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Recall,"11,148.00","11,599.00",0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,3,2023
+175,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Recall,"12,207.00","12,886.00",0.95,0.85,1.0,higher is better,%,1,0.1,0.95,0.95,4,2023
+176,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Recall,"1,612.00","1,770.00",0.91,0.85,1.0,higher is better,%,1,0.06,0.91,0.91,5,2023
+177,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Reviewer Reason Accuracy,"28,402.00","31,313.00",0.91,0.84,1.0,higher is better,%,1,0.07,0.91,0.91,1,2023
+178,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,FB FAWG,Average Handle Time,"56,716,000.98","7,750,365.00",0.07,0.08,1.0,lower is better,.,1,1.08,7.32,7.32,2,2023
+179,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Reviewer Reason Accuracy,"18,463.00","19,720.00",0.94,0.84,1.0,higher is better,%,1,0.1,0.94,0.94,3,2023
+180,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Reviewer Reason Accuracy,"18,901.00","20,799.00",0.91,0.84,1.0,higher is better,%,1,0.07,0.91,0.91,4,2023
+181,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Reviewer Reason Accuracy,"2,814.00","3,380.00",0.83,0.84,0.0,higher is better,%,0,-0.01,0.83,0.83,5,2023
+182,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Accuracy,"5,310.00","5,408.00",0.98,0.85,1.0,higher is better,%,1,0.13,0.98,0.98,1,2023
+183,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Precision,"10,489.00","11,004.00",0.95,0.89,1.0,higher is better,%,1,0.06,0.95,0.95,2,2023
+184,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Accuracy,"8,962.00","9,148.00",0.98,0.85,1.0,higher is better,%,1,0.13,0.98,0.98,4,2023
+185,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Average Handle Time,"5,906,390.42","129,708.00",0.46,0.6,1.0,lower is better,.,1,14.46,45.54,45.54,1,2023
+186,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Recall,"10,489.00","11,161.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,2,2023
+187,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Average Handle Time,"7,482,288.19","149,434.00",0.5,0.6,1.0,lower is better,.,1,9.93,50.07,50.07,3,2023
+188,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Average Handle Time,"6,330,940.32","126,068.00",0.5,0.6,1.0,lower is better,.,1,9.78,50.22,50.22,4,2023
+189,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Average Handle Time,"637,429.59","14,807.00",0.43,0.6,1.0,lower is better,.,1,16.95,43.05,43.05,5,2023
+190,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG Actor Accountability,Average Handle Time,"11,361,638.59","332,452.00",0.34,0.98,1.0,lower is better,.,1,64.32,34.18,34.18,1,2023
+191,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Filipino,Reviewer Reason Accuracy,"20,836.00","22,561.00",0.92,0.84,1.0,higher is better,%,1,0.08,0.92,0.92,2,2023
+192,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG Actor Accountability,Average Handle Time,"10,836,944.39","331,871.00",0.33,0.98,1.0,lower is better,.,1,65.85,32.65,32.65,3,2023
+193,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier CO,IG Actor Accountability,Average Handle Time,"396,150.93","11,561.00",0.34,0.98,1.0,lower is better,.,1,64.23,34.27,34.27,3,2023
+194,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG Actor Accountability,Average Handle Time,"10,083,079.61","319,684.00",0.32,0.98,1.0,lower is better,.,1,66.96,31.54,31.54,4,2023
+195,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier CO,IG Actor Accountability,Average Handle Time,"450,326.04","13,872.00",0.32,0.98,1.0,lower is better,.,1,66.04,32.46,32.46,4,2023
+196,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG Actor Accountability,Average Handle Time,"998,904.22","32,442.00",0.31,0.98,1.0,lower is better,.,1,67.71,30.79,30.79,5,2023
+197,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier CO,IG Actor Accountability,Average Handle Time,"14,492.10",334.00,0.43,0.98,1.0,lower is better,.,1,55.11,43.39,43.39,5,2023
+198,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG Actor Accountability,Reviewer Reason Accuracy,"4,084.00","4,117.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,4,2023
+199,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier CO,IG Actor Accountability,Reviewer Reason Accuracy,179.00,179.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+200,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG Actor Accountability,Reviewer Reason Accuracy,707.00,712.00,0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,5,2023
+201,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier CO,IG Actor Accountability,Reviewer Reason Accuracy,32.00,32.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,5,2023
+202,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Accuracy,"706,206.00","708,204.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,1,2023
+203,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Accuracy,9.00,10.00,0.9,0.85,1.0,higher is better,%,1,0.05,0.90,0.90,2,2023
+204,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Accuracy,"684,816.00","686,650.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,3,2023
+205,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Accuracy,"683,485.00","685,648.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,4,2023
+206,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Accuracy,"133,417.00","133,836.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,5,2023
+207,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Average Handle Time,"44,661,332.37","10,891,606.00",0.04,0.06,1.0,lower is better,.,1,2.08,4.10,4.10,1,2023
+208,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,IG FAWG,Average Handle Time,"184,156.86","1,892.00",0.97,0.06,0.0,lower is better,.,0,-91.15,97.33,97.33,2,2023
+209,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Hate Speech,Average Handle Time,"6,635,595.39","129,512.00",0.51,0.6,1.0,lower is better,.,1,8.76,51.24,51.24,2,2023
+210,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Average Handle Time,"40,067,202.61","10,326,218.00",0.04,0.06,1.0,lower is better,.,1,2.3,3.88,3.88,3,2023
+211,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Average Handle Time,"39,793,583.24","10,896,636.00",0.04,0.06,1.0,lower is better,.,1,2.53,3.65,3.65,4,2023
+212,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Average Handle Time,"2,937,123.87","722,492.00",0.04,0.06,1.0,lower is better,.,1,2.11,4.07,4.07,5,2023
+213,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Accuracy,"6,399.00","6,535.00",0.98,0.85,1.0,higher is better,%,1,0.13,0.98,0.98,1,2023
+214,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG Actor Accountability,Average Handle Time,"9,865,434.29","293,394.00",0.34,0.98,1.0,lower is better,.,1,64.87,33.63,33.63,2,2023
+215,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Matching (Crowdsourced),Accuracy,32.00,56.00,0.57,0.85,0.0,higher is better,%,0,-0.28,0.57,0.57,3,2023
+216,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Accuracy,"5,803.00","6,667.00",0.87,0.85,1.0,higher is better,%,1,0.02,0.87,0.87,3,2023
+217,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Accuracy,"1,382.00","1,390.00",0.99,0.85,1.0,higher is better,%,1,0.14,0.99,0.99,4,2023
+218,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Accuracy,"1,421.00","1,453.00",0.98,0.85,1.0,higher is better,%,1,0.13,0.98,0.98,5,2023
+219,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Matching (Crowdsourced),Average Handle Time,"517,424.60","12,868.00",0.4,0.6,1.0,lower is better,.,1,19.79,40.21,40.21,1,2023
+220,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Hybrid,Frontier CO,Matching (Crowdsourced),Average Handle Time,"72,060.53","2,525.00",0.29,0.6,1.0,lower is better,.,1,31.46,28.54,28.54,1,2023
+221,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Average Handle Time,"63,447,190.88","1,896,744.00",0.33,0.6,1.0,lower is better,.,1,26.55,33.45,33.45,1,2023
+222,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Matching (Crowdsourced),Average Handle Time,"440,310.16","11,377.00",0.39,0.6,1.0,lower is better,.,1,21.3,38.70,38.70,2,2023
+223,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Hybrid,Frontier CO,Matching (Crowdsourced),Average Handle Time,"206,421.42","6,418.00",0.32,0.6,1.0,lower is better,.,1,27.84,32.16,32.16,2,2023
+224,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Accuracy,"558,382.00","559,737.00",1.0,0.98,1.0,higher is better,%,1,0.02,1.00,1.00,2,2023
+225,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier CO,Matching (Crowdsourced),Average Handle Time,"90,653.73","1,802.00",0.5,0.6,1.0,lower is better,.,1,9.69,50.31,50.31,2,2023
+226,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Matching (Crowdsourced),Average Handle Time,"1,291,948.17","44,271.00",0.29,0.6,1.0,lower is better,.,1,30.82,29.18,29.18,3,2023
+227,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Hybrid,Frontier CO,Matching (Crowdsourced),Average Handle Time,"168,237.56","5,091.00",0.33,0.6,1.0,lower is better,.,1,26.95,33.05,33.05,3,2023
+228,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Average Handle Time,"75,465,941.22","2,263,430.00",0.33,0.6,1.0,lower is better,.,1,26.66,33.34,33.34,3,2023
+229,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Matching (Crowdsourced),Average Handle Time,"3,453,569.06","71,521.00",0.48,0.6,1.0,lower is better,.,1,11.71,48.29,48.29,4,2023
+230,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Hybrid,Frontier CO,Matching (Crowdsourced),Average Handle Time,"342,047.16","9,936.00",0.34,0.6,1.0,lower is better,.,1,25.57,34.43,34.43,4,2023
+231,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Average Handle Time,"83,320,735.83","2,432,151.00",0.34,0.6,1.0,lower is better,.,1,25.74,34.26,34.26,4,2023
+232,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Matching (Crowdsourced),Average Handle Time,"132,292.43","3,143.00",0.42,0.6,1.0,lower is better,.,1,17.91,42.09,42.09,5,2023
+233,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Hybrid,Frontier CO,Matching (Crowdsourced),Average Handle Time,"22,188.10",952.00,0.23,0.6,1.0,lower is better,.,1,36.69,23.31,23.31,5,2023
+234,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Average Handle Time,"7,203,238.18","208,289.00",0.35,0.6,1.0,lower is better,.,1,25.42,34.58,34.58,5,2023
+235,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Precision,"5,476.00","5,771.00",0.95,0.89,1.0,higher is better,%,1,0.06,0.95,0.95,1,2023
+236,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,IG FAWG,Average Handle Time,"38,102,760.38","8,525,720.00",0.04,0.06,1.0,lower is better,.,1,1.71,4.47,4.47,2,2023
+237,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Precision,16.00,17.00,0.94,0.89,1.0,higher is better,%,1,0.05,0.94,0.94,3,2023
+238,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Precision,"4,631.00","4,701.00",0.99,0.89,1.0,higher is better,%,1,0.1,0.99,0.99,3,2023
+239,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Precision,672.00,794.00,0.85,0.89,0.0,higher is better,%,0,-0.04,0.85,0.85,4,2023
+240,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Precision,"4,802.00","5,912.00",0.81,0.89,0.0,higher is better,%,0,-0.08,0.81,0.81,4,2023
+241,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Precision,129.00,133.00,0.97,0.89,1.0,higher is better,%,1,0.08,0.97,0.97,5,2023
+242,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Precision,497.00,531.00,0.94,0.89,1.0,higher is better,%,1,0.05,0.94,0.94,5,2023
+243,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Recall,"5,476.00","5,828.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,1,2023
+244,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Accuracy,"6,512.00","6,523.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,2,2023
+245,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Recall,16.00,18.00,0.89,0.85,1.0,higher is better,%,1,0.04,0.89,0.89,3,2023
+246,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Recall,"4,631.00","4,762.00",0.97,0.85,1.0,higher is better,%,1,0.12,0.97,0.97,3,2023
+247,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Recall,672.00,718.00,0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,4,2023
+248,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Recall,"4,802.00","5,112.00",0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,4,2023
+249,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Recall,129.00,134.00,0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,5,2023
+250,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Recall,497.00,527.00,0.94,0.85,1.0,higher is better,%,1,0.09,0.94,0.94,5,2023
+251,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Reviewer Reason Accuracy,"13,122.00","13,771.00",0.95,0.84,1.0,higher is better,%,1,0.11,0.95,0.95,1,2023
+252,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Matching (Crowdsourced),Average Handle Time,"63,421,422.76","1,742,226.00",0.36,0.6,1.0,lower is better,.,1,23.6,36.40,36.40,2,2023
+253,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Reviewer Reason Accuracy,60.00,63.00,0.95,0.84,1.0,higher is better,%,1,0.11,0.95,0.95,3,2023
+254,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Reviewer Reason Accuracy,"11,183.00","11,534.00",0.97,0.84,1.0,higher is better,%,1,0.13,0.97,0.97,3,2023
+255,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Reviewer Reason Accuracy,"1,334.00","1,617.00",0.82,0.84,0.0,higher is better,%,0,-0.02,0.83,0.83,4,2023
+256,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Reviewer Reason Accuracy,"10,752.00","13,711.00",0.78,0.84,0.0,higher is better,%,0,-0.06,0.78,0.78,4,2023
+257,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier CO,Rest of World,Reviewer Reason Accuracy,223.00,249.00,0.9,0.84,1.0,higher is better,%,1,0.06,0.90,0.90,5,2023
+258,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Reviewer Reason Accuracy,"1,449.00","1,581.00",0.92,0.84,1.0,higher is better,%,1,0.08,0.92,0.92,5,2023
+259,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Accuracy,"18,975.00","20,980.00",0.9,0.75,1.0,higher is better,%,1,0.15,0.90,0.90,1,2023
+260,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Accuracy,"53,672.00","58,947.00",0.91,0.75,1.0,higher is better,%,1,0.16,0.91,0.91,1,2023
+261,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Accuracy,"16,019.00","17,226.00",0.93,0.75,1.0,higher is better,%,1,0.18,0.93,0.93,2,2023
+262,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Accuracy,"47,590.00","51,417.00",0.93,0.75,1.0,higher is better,%,1,0.18,0.93,0.93,2,2023
+263,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Accuracy,"18,106.00","22,110.00",0.82,0.75,1.0,higher is better,%,1,0.07,0.82,0.82,3,2023
+264,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier Commerce,Commerce,Accuracy,204.00,280.00,0.73,0.75,0.0,higher is better,%,0,-0.02,0.73,0.73,3,2023
+265,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Accuracy,"40,749.00","44,465.00",0.92,0.75,1.0,higher is better,%,1,0.17,0.92,0.92,3,2023
+266,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Accuracy,"6,987.00","8,256.00",0.85,0.75,1.0,higher is better,%,1,0.1,0.85,0.85,4,2023
+267,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier Commerce,Commerce,Accuracy,52.00,67.00,0.78,0.75,1.0,higher is better,%,1,0.03,0.78,0.78,4,2023
+268,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier Commerce,Commerce,Accuracy,758.00,"1,066.00",0.71,0.75,0.0,higher is better,%,0,-0.04,0.71,0.71,4,2023
+269,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Accuracy,"40,482.00","46,141.00",0.88,0.75,1.0,higher is better,%,1,0.13,0.88,0.88,4,2023
+270,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Precision,"11,310.00","11,575.00",0.98,0.92,1.0,higher is better,%,1,0.06,0.98,0.98,1,2023
+271,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Precision,"35,859.00","36,581.00",0.98,0.92,1.0,higher is better,%,1,0.06,0.98,0.98,1,2023
+272,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Precision,"9,808.00","9,946.00",0.99,0.92,1.0,higher is better,%,1,0.07,0.99,0.99,2,2023
+273,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Precision,"32,942.00","33,325.00",0.99,0.92,1.0,higher is better,%,1,0.07,0.99,0.99,2,2023
+274,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Precision,"11,509.00","11,921.00",0.97,0.92,1.0,higher is better,%,1,0.05,0.97,0.97,3,2023
+275,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier Commerce,Commerce,Precision,123.00,129.00,0.95,0.92,1.0,higher is better,%,1,0.03,0.95,0.95,3,2023
+276,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Precision,"27,838.00","28,290.00",0.98,0.92,1.0,higher is better,%,1,0.06,0.98,0.98,3,2023
+277,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Precision,"4,161.00","4,274.00",0.97,0.92,1.0,higher is better,%,1,0.05,0.97,0.97,4,2023
+278,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier Commerce,Commerce,Precision,28.00,29.00,0.97,0.92,1.0,higher is better,%,1,0.05,0.97,0.97,4,2023
+279,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier Commerce,Commerce,Precision,504.00,563.00,0.9,0.92,0.0,higher is better,%,0,-0.02,0.90,0.90,4,2023
+280,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Precision,"27,525.00","28,070.00",0.98,0.92,1.0,higher is better,%,1,0.06,0.98,0.98,4,2023
+281,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Recall,"11,310.00","12,107.00",0.93,0.85,1.0,higher is better,%,1,0.08,0.93,0.93,1,2023
+282,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Recall,"35,859.00","37,294.00",0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,1,2023
+283,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Recall,"9,808.00","10,182.00",0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,2,2023
+284,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Recall,"32,942.00","33,667.00",0.98,0.85,1.0,higher is better,%,1,0.13,0.98,0.98,2,2023
+285,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Recall,"11,509.00","13,127.00",0.88,0.85,1.0,higher is better,%,1,0.03,0.88,0.88,3,2023
+286,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier Commerce,Commerce,Recall,123.00,153.00,0.8,0.85,0.0,higher is better,%,0,-0.05,0.80,0.80,3,2023
+287,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Recall,"27,838.00","29,037.00",0.96,0.85,1.0,higher is better,%,1,0.11,0.96,0.96,3,2023
+288,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier Commerce,Commerce,Recall,"4,161.00","4,571.00",0.91,0.85,1.0,higher is better,%,1,0.06,0.91,0.91,4,2023
+289,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier Commerce,Commerce,Recall,28.00,30.00,0.93,0.85,1.0,higher is better,%,1,0.08,0.93,0.93,4,2023
+290,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier Commerce,Commerce,Recall,504.00,561.00,0.9,0.85,1.0,higher is better,%,1,0.05,0.90,0.90,4,2023
+291,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Commerce,Recall,"27,525.00","28,968.00",0.95,0.85,1.0,higher is better,%,1,0.1,0.95,0.95,4,2023
+292,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Seller Trust,Accuracy,"12,686.00","13,392.00",0.95,0.75,1.0,higher is better,%,1,0.2,0.95,0.95,1,2023
+293,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Seller Trust,Accuracy,"9,323.00","9,848.00",0.95,0.75,1.0,higher is better,%,1,0.2,0.95,0.95,2,2023
+294,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Seller Trust,Accuracy,"5,692.00","5,863.00",0.97,0.75,1.0,higher is better,%,1,0.22,0.97,0.97,3,2023
+295,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Seller Trust,Accuracy,"3,690.00","3,820.00",0.97,0.75,1.0,higher is better,%,1,0.22,0.97,0.97,4,2023
+296,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Seller Trust,Precision,87.00,100.00,0.87,0.92,0.0,higher is better,%,0,-0.05,0.87,0.87,4,2023
+297,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Seller Trust,Recall,87.00,106.00,0.82,0.85,0.0,higher is better,%,0,-0.03,0.82,0.82,4,2023
+298,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier Commerce,Shops BI Appeals,Accuracy,40.00,44.00,0.91,0.75,1.0,higher is better,%,1,0.16,0.91,0.91,1,2023
+299,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Account Originality,Accuracy,"30,980.00","32,830.00",0.94,0.82,1.0,higher is better,%,1,0.12,0.94,0.94,1,2023
+300,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier PDO,Account Originality,Accuracy,68.00,79.00,0.86,0.82,1.0,higher is better,%,1,0.04,0.86,0.86,2,2023
+301,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Precision,"4,580.00","4,642.00",0.99,0.89,1.0,higher is better,%,1,0.1,0.99,0.99,2,2023
+302,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Account Originality,Accuracy,"14,241.00","19,360.00",0.74,0.82,0.0,higher is better,%,0,-0.08,0.74,0.74,2,2023
+303,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Account Originality,Average Handle Time,"79,045,859.04","751,764.00",1.05,1.21,1.0,lower is better,.,1,15.85,105.15,105.15,1,2023
+304,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier PDO,Account Originality,Average Handle Time,"96,593.40",32.00,30.19,1.21,0.0,lower is better,.,0,-2897.54,"3,018.54","3,018.54",2,2023
+305,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Recall,"4,580.00","4,703.00",0.97,0.85,1.0,higher is better,%,1,0.12,0.97,0.97,2,2023
+306,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Account Originality,Average Handle Time,"65,017,450.64","638,870.00",1.02,1.21,1.0,lower is better,.,1,19.23,101.77,101.77,2,2023
+307,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Accuracy,"66,545.00",666.00,99.92,0.85,1.0,higher is better,%,1,99.07,99.92,99.92,1,2023
+308,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Accuracy,"47,973.00",537.00,89.34,0.85,1.0,higher is better,%,1,88.49,89.34,89.34,2,2023
+309,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Accuracy,"223,416.00","2,236.00",99.92,0.85,1.0,higher is better,%,1,99.07,99.92,99.92,3,2023
+310,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,AR/VR Nimble,Accuracy,17.10,29.00,0.59,0.85,0.0,higher is better,%,0,-0.26,0.59,0.59,4,2023
+311,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Accuracy,307.99,552.00,0.56,0.85,0.0,higher is better,%,0,-0.29,0.56,0.56,4,2023
+312,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,AR/VR Nimble,Accuracy,10.98,11.00,1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,5,2023
+313,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Accuracy,202.88,203.00,1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,5,2023
+314,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Average Handle Time,"27,737,219.29","191,641.00",1.45,3.0,1.0,lower is better,.,1,155.26,144.74,144.74,1,2023
+315,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Average Handle Time,"24,577,907.09","173,950.00",1.41,3.0,1.0,lower is better,.,1,158.71,141.29,141.29,2,2023
+316,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Average Handle Time,"27,218,707.32","192,457.00",1.41,2.0,1.0,lower is better,.,1,58.57,141.43,141.43,3,2023
+317,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,AR/VR Nimble,Average Handle Time,"1,143,976.25","5,801.00",1.97,2.0,1.0,lower is better,.,1,2.8,197.20,197.20,4,2023
+318,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Average Handle Time,"22,334,005.02","153,817.00",1.45,2.0,1.0,lower is better,.,1,54.8,145.20,145.20,4,2023
+319,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,AR/VR Nimble,Average Handle Time,"156,889.95","1,228.00",1.28,2.0,1.0,lower is better,.,1,72.24,127.76,127.76,5,2023
+320,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,AR/VR Nimble,Average Handle Time,"2,762,539.21","19,741.00",1.4,2.0,1.0,lower is better,.,1,60.06,139.94,139.94,5,2023
+321,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Accuracy,"4,526.00","4,739.00",0.96,0.95,1.0,higher is better,%,1,0.01,0.96,0.96,1,2023
+322,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier PDO,Ariane Box,Accuracy,125.00,135.00,0.93,0.95,0.0,higher is better,%,0,-0.02,0.93,0.93,2,2023
+323,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier CO,Rest of World,Reviewer Reason Accuracy,"10,112.00","10,365.00",0.98,0.84,1.0,higher is better,%,1,0.14,0.98,0.98,2,2023
+324,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Accuracy,"3,963.00","4,221.00",0.94,0.95,0.0,higher is better,%,0,-0.01,0.94,0.94,2,2023
+325,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier PDO,Ariane Box,Accuracy,64.00,80.00,0.8,0.95,0.0,higher is better,%,0,-0.15,0.80,0.80,3,2023
+326,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier PDO,Ariane Box,Accuracy,130.00,162.00,0.8,0.95,0.0,higher is better,%,0,-0.15,0.80,0.80,3,2023
+327,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Accuracy,"2,730.00","3,150.00",0.87,0.95,0.0,higher is better,%,0,-0.08,0.87,0.87,3,2023
+328,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Accuracy,"12,924.00","13,052.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,4,2023
+329,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Average Handle Time,"17,838,955.78","8,196.00",21.77,24.0,1.0,lower is better,.,1,223.46,"2,176.54","2,176.54",2,2023
+330,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier PDO,Ariane Box,Average Handle Time,"845,699.22",104.00,81.32,24.0,1.0,lower is better,.,1,-5731.72,"8,131.72","8,131.72",3,2023
+331,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Average Handle Time,"18,692,939.96","6,993.00",26.73,24.0,1.0,lower is better,.,1,-273.09,"2,673.09","2,673.09",3,2023
+332,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Average Handle Time,"12,887,743.90","264,388.00",0.49,24.0,1.0,lower is better,.,1,2351.25,48.75,48.75,4,2023
+333,2023MAY,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Ariane Box,Average Handle Time,"2,292,146.25","1,013.00",22.63,24.0,1.0,lower is better,.,1,137.27,"2,262.73","2,262.73",5,2023
+334,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Assistant MM,Average Handle Time,"11,937,567.09","72,204.00",1.65,2.0,1.0,lower is better,.,1,34.67,165.33,165.33,2,2023
+335,2023MAR,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Assistant Language,Accuracy,"2,080.00","2,080.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,3,2023
+336,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Classification,Accuracy,6.00,6.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+337,2023MAR,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Assistant Language,Average Handle Time,"4,117,204.71","40,189.00",1.02,1.25,1.0,lower is better,.,1,22.75,102.45,102.45,3,2023
+338,2023APR,NAM,USA - San Antonio - Lizzy's Toy Emporium,Onsite,Frontier PDO,Assistant Language,Average Handle Time,"4,403,764.62","108,027.00",0.41,1.25,1.0,lower is better,.,1,84.43,40.77,40.77,4,2023
+339,2023MAY,NAM,USA - San Antonio - Lizzy's Toy Emporium,Onsite,Frontier PDO,Assistant Language,Average Handle Time,"379,268.37","4,351.00",0.87,1.25,1.0,lower is better,.,1,38.03,87.17,87.17,5,2023
+340,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Assistant MM,Accuracy,0.02,11.00,0.0,0.9,0.0,higher is better,%,0,-0.9,0.00,0.00,1,2023
+341,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Assistant MM,Accuracy,13.00,13.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+342,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Assistant MM,Accuracy,116.40,118.00,0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,4,2023
+343,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Assistant MM,Average Handle Time,"1,230,941.16","4,329.00",2.84,2.0,0.0,lower is better,.,0,-84.35,284.35,284.35,1,2023
+344,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Assistant MM,Average Handle Time,"13,087,977.34","43,801.00",2.99,2.0,0.0,lower is better,.,0,-98.81,298.81,298.81,1,2023
+345,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Assistant MM,Average Handle Time,"1,249,257.60","9,609.00",1.3,2.0,1.0,lower is better,.,1,69.99,130.01,130.01,2,2023
+346,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Content,Average Handle Time,"5,783.02",145.00,0.4,0.9,1.0,lower is better,.,1,50.12,39.88,39.88,2,2023
+347,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Assistant MM,Average Handle Time,"1,474,409.85","10,886.00",1.35,2.0,1.0,lower is better,.,1,64.56,135.44,135.44,3,2023
+348,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Assistant MM,Average Handle Time,"13,256,481.90","83,708.00",1.58,2.0,1.0,lower is better,.,1,41.63,158.37,158.37,3,2023
+349,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Assistant MM,Average Handle Time,"1,190,032.94","9,674.00",1.23,2.0,1.0,lower is better,.,1,76.99,123.01,123.01,4,2023
+350,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Assistant MM,Average Handle Time,"11,324,870.37","97,223.00",1.16,2.0,1.0,lower is better,.,1,83.52,116.48,116.48,4,2023
+351,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Assistant MM,Average Handle Time,"142,684.28","1,083.00",1.32,2.0,1.0,lower is better,.,1,68.25,131.75,131.75,5,2023
+352,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Assistant MM,Average Handle Time,"1,166,074.25","8,355.00",1.4,2.0,1.0,lower is better,.,1,60.43,139.57,139.57,5,2023
+353,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,B2B,Average Handle Time,"39,677,267.89","94,967.00",4.18,4.1,0.0,lower is better,.,0,-7.8,417.80,417.80,1,2023
+354,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,B2B,Average Handle Time,"10,996,610.79","30,131.00",3.65,4.1,1.0,lower is better,.,1,45.04,364.96,364.96,2,2023
+355,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,B2B,Average Handle Time,"6,481,478.87","19,618.00",3.3,4.1,1.0,lower is better,.,1,79.62,330.38,330.38,3,2023
+356,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,B2B,Precision,"17,044.00","17,682.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,2,2023
+357,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,B2B,Precision,"10,351.00","10,627.00",0.97,0.9,1.0,higher is better,%,1,0.07,0.97,0.97,3,2023
+358,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Business Verification,Average Handle Time,"1,292,512.57","19,706.00",0.66,0.75,1.0,lower is better,.,1,9.41,65.59,65.59,1,2023
+359,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Business Verification,Average Handle Time,"2,116,516.12","32,512.00",0.65,0.75,1.0,lower is better,.,1,9.9,65.10,65.10,2,2023
+360,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Business Verification,Average Handle Time,"1,274,477.39","19,677.00",0.65,0.75,1.0,lower is better,.,1,10.23,64.77,64.77,3,2023
+361,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Business Verification,Average Handle Time,"1,192,819.41","16,911.00",0.71,0.75,1.0,lower is better,.,1,4.46,70.54,70.54,4,2023
+362,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Business Verification,Average Handle Time,"78,363.40","1,511.00",0.52,0.75,1.0,lower is better,.,1,23.14,51.86,51.86,5,2023
+363,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Accuracy,"17,181.00","17,632.00",0.97,0.9,1.0,higher is better,%,1,0.07,0.97,0.97,1,2023
+364,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Canonicalisation,Accuracy,0.00,2.00,0.0,0.9,0.0,higher is better,%,0,-0.9,0.00,0.00,1,2023
+365,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Accuracy,"13,408.00","13,817.00",0.97,0.9,1.0,higher is better,%,1,0.07,0.97,0.97,2,2023
+366,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Accuracy,"34,252.00","36,378.00",0.94,0.9,1.0,higher is better,%,1,0.04,0.94,0.94,3,2023
+367,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Accuracy,"16,280.00","16,964.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,4,2023
+368,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Canonicalisation,Accuracy,1.00,1.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+369,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Accuracy,"3,569.00","3,640.00",0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,5,2023
+370,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Average Handle Time,"18,051,888.68","326,242.00",0.55,0.6,1.0,lower is better,.,1,4.67,55.33,55.33,1,2023
+371,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Average Handle Time,"14,520,066.59","285,689.00",0.51,0.6,1.0,lower is better,.,1,9.18,50.82,50.82,2,2023
+372,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Average Handle Time,"17,550,281.97","406,850.00",0.43,0.6,1.0,lower is better,.,1,16.86,43.14,43.14,3,2023
+373,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Average Handle Time,"16,645,050.29","383,532.00",0.43,0.6,1.0,lower is better,.,1,16.6,43.40,43.40,4,2023
+374,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Canonicalisation,Average Handle Time,"1,588,927.26","36,989.00",0.43,0.6,1.0,lower is better,.,1,17.04,42.96,42.96,5,2023
+375,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Accuracy,"11,936.00","11,940.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+376,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Accuracy,"5,096.80","5,100.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+377,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Accuracy,"13,664.80","13,672.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,3,2023
+378,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Accuracy,"6,948.40","6,950.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+379,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Average Handle Time,"869,304.70","64,991.00",0.13,0.2,1.0,lower is better,.,1,6.62,13.38,13.38,1,2023
+380,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Average Handle Time,"162,749.47","9,749.00",0.17,0.2,1.0,lower is better,.,1,3.31,16.69,16.69,2,2023
+381,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Average Handle Time,"378,701.46","32,436.00",0.12,0.2,1.0,lower is better,.,1,8.32,11.68,11.68,3,2023
+382,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Average Handle Time,"77,248.41","6,277.00",0.12,0.2,1.0,lower is better,.,1,7.69,12.31,12.31,4,2023
+383,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,CCS Redaction,Average Handle Time,"12,171.45","1,128.00",0.11,0.2,1.0,lower is better,.,1,9.21,10.79,10.79,5,2023
+384,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Civic Actors,Accuracy,"1,159.00","1,341.00",0.86,0.85,1.0,higher is better,%,1,0.01,0.86,0.86,1,2023
+385,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Civic Actors,Accuracy,209.00,246.00,0.85,0.85,0.0,higher is better,%,0,-0.0,0.85,0.85,2,2023
+386,2023MAR,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Civic Actors,Accuracy,"1,770.00","2,066.00",0.86,0.85,1.0,higher is better,%,1,0.01,0.86,0.86,3,2023
+387,2023MAR,NAM,USA - San Antonio - Lizzy's Toy Emporium,Current WFH,Frontier PDO,Civic Actors,Accuracy,68.00,76.00,0.89,0.85,1.0,higher is better,%,1,0.04,0.89,0.89,3,2023
+388,2023APR,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,Civic Actors,Accuracy,517.00,562.00,0.92,0.85,1.0,higher is better,%,1,0.07,0.92,0.92,4,2023
+389,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Civic Actors,Average Handle Time,"5,950,117.61","23,830.00",2.5,1.9,0.0,lower is better,.,0,-59.69,249.69,249.69,1,2023
+390,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Accuracy,"6,449.00","6,449.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+391,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Classification,Accuracy,78.00,78.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+392,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Accuracy,"4,489.00","4,489.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+393,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Accuracy,370.00,379.00,0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,2,2023
+394,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Accuracy,"10,940.00","11,366.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,3,2023
+395,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Classification,Accuracy,38.00,38.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,3,2023
+396,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Accuracy,"3,616.00","3,749.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,4,2023
+397,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Classification,Accuracy,2.00,2.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+398,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Accuracy,929.00,952.00,0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,5,2023
+399,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Classification,Accuracy,5.00,5.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,5,2023
+400,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Average Handle Time,"5,595,872.87","106,719.00",0.52,0.9,1.0,lower is better,.,1,37.56,52.44,52.44,1,2023
+401,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Classification,Average Handle Time,"156,590.84","2,988.00",0.52,0.9,1.0,lower is better,.,1,37.59,52.41,52.41,1,2023
+402,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Average Handle Time,"4,821,839.95","48,232.00",1.0,0.9,0.0,lower is better,.,0,-9.97,99.97,99.97,2,2023
+403,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Average Handle Time,"4,012,902.07","53,268.00",0.75,0.9,1.0,lower is better,.,1,14.67,75.33,75.33,3,2023
+404,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Average Handle Time,"3,805,630.37","47,690.00",0.8,0.9,1.0,lower is better,.,1,10.2,79.80,79.80,4,2023
+405,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Classification,Average Handle Time,"536,667.66","6,824.00",0.79,0.9,1.0,lower is better,.,1,11.36,78.64,78.64,5,2023
+406,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Content,Accuracy,"5,035.00","5,035.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+407,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Content,Accuracy,"1,117.00","1,117.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+408,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Content,Accuracy,"4,035.00","4,035.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+409,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Content,Average Handle Time,"2,573,583.29","34,961.00",0.74,0.9,1.0,lower is better,.,1,16.39,73.61,73.61,1,2023
+410,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Climate Content,Average Handle Time,"778,182.39","10,073.00",0.77,0.9,1.0,lower is better,.,1,12.75,77.25,77.25,1,2023
+411,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Climate Content,Average Handle Time,"1,793,578.53","21,559.00",0.83,0.9,1.0,lower is better,.,1,6.81,83.19,83.19,2,2023
+412,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Average Handle Time,"612,276.22","14,805.00",0.41,0.66,1.0,lower is better,.,1,24.46,41.36,41.36,2,2023
+413,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Community Content,Average Handle Time,"9,833,462.32","101,131.00",0.97,0.8,0.0,lower is better,.,0,-17.23,97.23,97.23,4,2023
+414,2023APR,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,Convey Value,Accuracy,788.00,794.00,0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,4,2023
+415,2023APR,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,Convey Value,Accuracy,788.00,791.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,4,2023
+416,2023MAY,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,Convey Value,Accuracy,52.00,53.00,0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,5,2023
+417,2023MAY,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,Convey Value,Accuracy,67.00,68.00,0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,5,2023
+418,2023MAR,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Convey Value,Average Handle Time,"1,310,502.09","38,059.00",0.34,0.36,1.0,lower is better,.,1,1.67,34.43,34.43,3,2023
+419,2023MAR,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Convey Value,Average Handle Time,"1,241,246.09","38,112.00",0.33,0.36,1.0,lower is better,.,1,3.53,32.57,32.57,3,2023
+420,2023APR,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,Convey Value,Average Handle Time,"1,262,841.84","39,869.00",0.32,0.36,1.0,lower is better,.,1,4.43,31.67,31.67,4,2023
+421,2023APR,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,Convey Value,Average Handle Time,"1,124,250.38","44,283.00",0.25,0.36,1.0,lower is better,.,1,10.71,25.39,25.39,4,2023
+422,2023MAY,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,Convey Value,Average Handle Time,"182,163.26","6,767.00",0.27,0.36,1.0,lower is better,.,1,9.18,26.92,26.92,5,2023
+423,2023MAY,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,Convey Value,Average Handle Time,"217,630.67","10,214.00",0.21,0.36,1.0,lower is better,.,1,14.79,21.31,21.31,5,2023
+424,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Accuracy,202.00,207.00,0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,1,2023
+425,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Accuracy,760.00,781.00,0.97,0.9,1.0,higher is better,%,1,0.07,0.97,0.97,2,2023
+426,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Accuracy,4.00,4.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,3,2023
+427,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Accuracy,1.00,1.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+428,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Crisis Response,Average Handle Time,"15,742.35",592.00,0.27,0.66,1.0,lower is better,.,1,39.23,26.59,26.59,1,2023
+429,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Average Handle Time,"362,023.30","8,194.00",0.44,0.66,1.0,lower is better,.,1,21.64,44.18,44.18,1,2023
+430,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Crisis Response,Average Handle Time,"24,009.03",521.00,0.46,0.66,1.0,lower is better,.,1,19.74,46.08,46.08,2,2023
+431,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Average Handle Time,"901,428.28","15,846.00",0.57,0.55,0.0,lower is better,.,0,-1.89,56.89,56.89,2,2023
+432,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Crisis Response,Average Handle Time,"22,801.11",648.00,0.35,0.55,1.0,lower is better,.,1,19.81,35.19,35.19,3,2023
+433,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Average Handle Time,"459,091.62","12,873.00",0.36,0.55,1.0,lower is better,.,1,19.34,35.66,35.66,3,2023
+434,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Crisis Response,Average Handle Time,"14,350.50",479.00,0.3,0.55,1.0,lower is better,.,1,25.04,29.96,29.96,4,2023
+435,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Average Handle Time,"299,115.35","8,461.00",0.35,0.55,1.0,lower is better,.,1,19.65,35.35,35.35,4,2023
+436,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Crisis Response,Average Handle Time,578.28,14.00,0.41,0.55,1.0,lower is better,.,1,13.69,41.31,41.31,5,2023
+437,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response,Average Handle Time,"68,263.04",640.00,1.07,0.55,0.0,lower is better,.,0,-51.66,106.66,106.66,5,2023
+438,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Accuracy,"1,120.00","1,170.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,1,2023
+439,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Health Ecosystem,Average Handle Time,"462,126.40","6,757.00",0.68,1.2,1.0,lower is better,.,1,51.61,68.39,68.39,2,2023
+440,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Accuracy,"2,090.00","2,126.00",0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,3,2023
+441,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Accuracy,870.00,882.00,0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,4,2023
+442,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Accuracy,195.00,196.00,0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,5,2023
+443,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Average Handle Time,"1,261,662.26","25,840.00",0.49,0.55,1.0,lower is better,.,1,6.17,48.83,48.83,1,2023
+444,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,HG Vetting,Average Handle Time,"14,172.97",256.00,0.55,1.2,1.0,lower is better,.,1,64.64,55.36,55.36,2,2023
+445,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Average Handle Time,"857,190.11","16,774.00",0.51,0.55,1.0,lower is better,.,1,3.9,51.10,51.10,3,2023
+446,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Average Handle Time,"831,570.17","14,933.00",0.56,0.55,0.0,lower is better,.,0,-0.69,55.69,55.69,4,2023
+447,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Crisis Response Local,Average Handle Time,"72,218.13","1,130.00",0.64,0.55,0.0,lower is better,.,0,-8.91,63.91,63.91,5,2023
+448,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Accuracy,"18,337.00","18,459.00",0.99,0.93,1.0,higher is better,%,1,0.06,0.99,0.99,1,2023
+449,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Accuracy,"15,734.00","15,930.00",0.99,0.93,1.0,higher is better,%,1,0.06,0.99,0.99,2,2023
+450,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Accuracy,"57,006.00","58,160.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,3,2023
+451,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Accuracy,"31,708.00","32,299.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,4,2023
+452,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Accuracy,"6,919.00","7,068.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,5,2023
+453,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Average Handle Time,"12,931,485.77","377,877.00",0.34,0.3,0.0,lower is better,.,0,-4.22,34.22,34.22,1,2023
+454,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Average Handle Time,"11,731,542.30","339,739.00",0.35,0.3,0.0,lower is better,.,0,-4.53,34.53,34.53,2,2023
+455,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Average Handle Time,"12,954,270.75","476,777.00",0.27,0.3,1.0,lower is better,.,1,2.83,27.17,27.17,3,2023
+456,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Average Handle Time,"11,141,627.17","373,146.00",0.3,0.3,1.0,lower is better,.,1,0.14,29.86,29.86,4,2023
+457,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,DIscovery Safety,Average Handle Time,"1,786,866.79","60,153.00",0.3,0.3,1.0,lower is better,.,1,0.29,29.71,29.71,5,2023
+458,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Accuracy,"77,922.00","11,360.00",6.86,0.9,1.0,higher is better,%,1,5.96,6.86,6.86,1,2023
+459,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Accuracy,"41,814.00",586.00,71.35,0.9,1.0,higher is better,%,1,70.45,71.35,71.35,2,2023
+460,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Accuracy,"96,228.00","1,004.00",95.84,0.9,1.0,higher is better,%,1,94.94,95.84,95.84,3,2023
+461,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Accuracy,499.69,514.00,0.97,0.9,1.0,higher is better,%,1,0.07,0.97,0.97,4,2023
+462,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Accuracy,162.33,171.00,0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,5,2023
+463,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Average Handle Time,"21,471,391.74","334,931.00",0.64,0.3,0.0,lower is better,.,0,-34.11,64.11,64.11,1,2023
+464,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Average Handle Time,"23,535,840.58","250,619.00",0.94,6.0,1.0,lower is better,.,1,506.09,93.91,93.91,2,2023
+465,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Average Handle Time,"29,978,875.37","365,032.00",0.82,6.0,1.0,lower is better,.,1,517.87,82.13,82.13,3,2023
+466,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Average Handle Time,"29,975,502.99","344,744.00",0.87,6.0,1.0,lower is better,.,1,513.05,86.95,86.95,4,2023
+467,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,EMG Video Golden,Average Handle Time,"2,732,392.92","39,743.00",0.69,6.0,1.0,lower is better,.,1,531.25,68.75,68.75,5,2023
+468,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,ERR,Accuracy,"51,704.00","52,140.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+469,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,ERR,Accuracy,545.00,546.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+470,2023JAN,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,ERR,Accuracy,287.00,287.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+471,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,ERR,Accuracy,"41,803.00","42,146.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,2,2023
+472,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Unknown,Frontier PDO,IG Content Monetization Program,Accuracy,45.00,45.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,2,2023
+473,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Unknown,Frontier PDO,IG Content Monetization Program,Average Handle Time,"689,868.31","9,456.00",0.73,1.8,1.0,lower is better,.,1,107.04,72.96,72.96,2,2023
+474,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,ERR,Accuracy,"34,766.00","35,164.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,3,2023
+475,2023MAR,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,ERR,Accuracy,144.00,144.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,3,2023
+476,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,ERR,Average Handle Time,"45,127,895.02","1,180,332.00",0.38,0.45,1.0,lower is better,.,1,6.77,38.23,38.23,1,2023
+477,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,ERR,Average Handle Time,"39,792,981.96","1,026,192.00",0.39,0.45,1.0,lower is better,.,1,6.22,38.78,38.78,2,2023
+478,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,ERR,Average Handle Time,"26,501,729.96","646,200.00",0.41,0.45,1.0,lower is better,.,1,3.99,41.01,41.01,3,2023
+479,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Accuracy,652.02,662.00,0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,2,2023
+480,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Accuracy,"1,896.68","1,916.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,3,2023
+481,2023MAR,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,Face Express,Accuracy,2.00,2.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,3,2023
+482,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Accuracy,"1,265.13","1,276.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,4,2023
+483,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Accuracy,298.73,300.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,5,2023
+484,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Average Handle Time,"25,553,934.86","88,873.00",2.88,3.0,1.0,lower is better,.,1,12.47,287.53,287.53,2,2023
+485,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Average Handle Time,"31,381,505.45","109,673.00",2.86,3.0,1.0,lower is better,.,1,13.86,286.14,286.14,3,2023
+486,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Average Handle Time,"28,142,077.57","440,473.00",0.64,3.0,1.0,lower is better,.,1,236.11,63.89,63.89,4,2023
+487,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Express,Average Handle Time,"3,314,900.53","98,995.00",0.33,3.0,1.0,lower is better,.,1,266.51,33.49,33.49,5,2023
+488,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Tracking,Accuracy,"69,091.53","69,865.00",0.99,0.93,1.0,higher is better,%,1,0.06,0.99,0.99,1,2023
+489,2023JAN,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,Face Tracking,Accuracy,1.00,102.00,0.01,0.93,0.0,higher is better,%,0,-0.92,0.01,0.01,1,2023
+490,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Face Tracking,Average Handle Time,"19,193,167.36","18,369.00",10.45,21.0,1.0,lower is better,.,1,1055.13,"1,044.87","1,044.87",1,2023
+491,2023JAN,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,Face Tracking,Average Handle Time,"1,007,947.62","8,498.00",1.19,21.0,1.0,lower is better,.,1,1981.39,118.61,118.61,1,2023
+492,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB FoA,Accuracy,"7,230.00","7,864.00",0.92,0.9,1.0,higher is better,%,1,0.02,0.92,0.92,3,2023
+493,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,FB FoA,Accuracy,"5,024.00","5,524.00",0.91,0.9,1.0,higher is better,%,1,0.01,0.91,0.91,3,2023
+494,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,FB FoA,Accuracy,576.00,682.00,0.84,0.9,0.0,higher is better,%,0,-0.06,0.84,0.84,3,2023
+495,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB FoA,Accuracy,"3,002.00","3,349.00",0.9,0.9,0.0,higher is better,%,0,-0.0,0.90,0.90,4,2023
+496,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,FB FoA,Accuracy,919.00,"1,008.00",0.91,0.9,1.0,higher is better,%,1,0.01,0.91,0.91,4,2023
+497,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,FB FoA,Accuracy,153.00,177.00,0.86,0.9,0.0,higher is better,%,0,-0.04,0.86,0.86,4,2023
+498,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB FoA,Accuracy,470.00,514.00,0.91,0.9,1.0,higher is better,%,1,0.01,0.91,0.91,5,2023
+499,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,FB FoA,Accuracy,101.00,108.00,0.94,0.9,1.0,higher is better,%,1,0.04,0.94,0.94,5,2023
+500,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,FB FoA,Accuracy,2.00,3.00,0.67,0.9,0.0,higher is better,%,0,-0.23,0.67,0.67,5,2023
+501,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB FoA,Average Handle Time,"8,721,840.30","80,380.00",1.09,1.12,1.0,lower is better,.,1,3.49,108.51,108.51,3,2023
+502,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,FB FoA,Average Handle Time,"5,464,810.69","56,633.00",0.96,1.12,1.0,lower is better,.,1,15.5,96.50,96.50,3,2023
+503,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,FB FoA,Average Handle Time,"566,971.81","7,068.00",0.8,1.12,1.0,lower is better,.,1,31.78,80.22,80.22,3,2023
+504,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB FoA,Average Handle Time,"13,571,285.78","76,658.00",1.77,1.12,0.0,lower is better,.,0,-65.04,177.04,177.04,4,2023
+505,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,FB FoA,Average Handle Time,"3,802,512.43","22,870.00",1.66,1.12,0.0,lower is better,.,0,-54.27,166.27,166.27,4,2023
+506,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,FB FoA,Average Handle Time,"491,570.84","3,823.00",1.29,1.12,0.0,lower is better,.,0,-16.58,128.58,128.58,4,2023
+507,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB FoA,Average Handle Time,"2,049,830.61","7,259.00",2.82,1.12,0.0,lower is better,.,0,-170.38,282.38,282.38,5,2023
+508,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,FB FoA,Average Handle Time,"431,705.34","1,532.00",2.82,1.12,0.0,lower is better,.,0,-169.79,281.79,281.79,5,2023
+509,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,FB FoA,Average Handle Time,"100,987.45",337.00,3.0,1.12,0.0,lower is better,.,0,-187.67,299.67,299.67,5,2023
+510,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"73,886.00","74,367.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,1,2023
+511,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"24,222.00","24,288.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,1,2023
+512,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"63,576.00","63,793.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,2,2023
+513,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"45,428.00","45,562.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,2,2023
+514,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"155,818.00","156,428.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,3,2023
+515,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,FB Marketplace,Accuracy,70.00,74.00,0.95,0.95,0.0,higher is better,%,0,-0.0,0.95,0.95,3,2023
+516,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"92,078.00","92,328.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,3,2023
+517,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"77,196.00","77,332.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,4,2023
+518,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Accuracy,"15,170.00","15,231.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,4,2023
+519,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"25,627,741.99","1,878,205.00",0.14,0.23,1.0,lower is better,.,1,9.36,13.64,13.64,1,2023
+520,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"9,251,057.78","739,908.00",0.12,0.25,1.0,lower is better,.,1,12.5,12.50,12.50,1,2023
+521,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"21,035,676.73","1,643,558.00",0.13,0.23,1.0,lower is better,.,1,10.2,12.80,12.80,2,2023
+522,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"7,933,858.41","712,627.00",0.11,0.25,1.0,lower is better,.,1,13.87,11.13,11.13,2,2023
+523,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"26,439,630.52","2,136,505.00",0.12,0.23,1.0,lower is better,.,1,10.62,12.38,12.38,3,2023
+524,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"9,211,717.75","739,195.00",0.12,0.25,1.0,lower is better,.,1,12.54,12.46,12.46,3,2023
+525,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"12,925,964.40","846,739.00",0.15,0.23,1.0,lower is better,.,1,7.73,15.27,15.27,4,2023
+526,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"5,333,939.47","404,201.00",0.13,0.25,1.0,lower is better,.,1,11.8,13.20,13.20,4,2023
+527,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"1,872,484.85","147,593.00",0.13,0.23,1.0,lower is better,.,1,10.31,12.69,12.69,5,2023
+528,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,FB Marketplace,Average Handle Time,"674,733.70","56,309.00",0.12,0.25,1.0,lower is better,.,1,13.02,11.98,11.98,5,2023
+529,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Shopping Visual Search,Accuracy,"20,878.00","22,019.00",0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,1,2023
+530,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,FB Shopping Visual Search,Accuracy,985.00,"1,028.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,1,2023
+531,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Shopping Visual Search,Accuracy,"19,421.00","20,437.00",0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,2,2023
+532,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Accuracy,"6,440.00","6,460.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,2,2023
+533,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Shopping Visual Search,Accuracy,"6,922.00","7,146.00",0.97,0.9,1.0,higher is better,%,1,0.07,0.97,0.97,3,2023
+534,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,FB Shopping Visual Search,Accuracy,296.00,308.00,0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,3,2023
+535,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Shopping Visual Search,Average Handle Time,"10,016,080.90","362,449.00",0.28,0.35,1.0,lower is better,.,1,7.37,27.63,27.63,1,2023
+536,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,FB Shopping Visual Search,Average Handle Time,"521,267.94","16,923.00",0.31,0.35,1.0,lower is better,.,1,4.2,30.80,30.80,1,2023
+537,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Shopping Visual Search,Average Handle Time,"8,074,857.60","307,343.00",0.26,0.35,1.0,lower is better,.,1,8.73,26.27,26.27,2,2023
+538,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Average Handle Time,"3,876,856.21","100,296.00",0.39,2.4,1.0,lower is better,.,1,201.35,38.65,38.65,2,2023
+539,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,FB Shopping Visual Search,Average Handle Time,"1,656,600.72","64,281.00",0.26,0.35,1.0,lower is better,.,1,9.23,25.77,25.77,3,2023
+540,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,FB Shopping Visual Search,Average Handle Time,"86,230.09","2,991.00",0.29,0.35,1.0,lower is better,.,1,6.17,28.83,28.83,3,2023
+541,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Accuracy,"15,073.00","15,211.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+542,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Accuracy,"9,627.00","9,750.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,2,2023
+543,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Accuracy,"30,036.00","30,620.00",0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,3,2023
+544,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Accuracy,"3,565.00","3,616.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,4,2023
+545,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Average Handle Time,"7,678,421.12","100,106.00",0.77,1.03,1.0,lower is better,.,1,26.32,76.70,76.70,1,2023
+546,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Average Handle Time,"7,263,827.54","98,545.00",0.74,1.03,1.0,lower is better,.,1,29.31,73.71,73.71,2,2023
+547,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Average Handle Time,"8,109,000.42","114,486.00",0.71,1.03,1.0,lower is better,.,1,32.19,70.83,70.83,3,2023
+548,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Average Handle Time,"6,401,694.59","93,371.00",0.69,1.03,1.0,lower is better,.,1,34.46,68.56,68.56,4,2023
+549,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Gaming Integrity,Average Handle Time,"779,128.54","10,874.00",0.72,1.03,1.0,lower is better,.,1,31.37,71.65,71.65,5,2023
+550,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Generative AI Quality Evaluation,Accuracy,"49,460.00","52,542.00",0.94,0.95,1.0,higher is better,%,1,-0.01,0.94,0.94,3,2023
+551,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Generative AI Quality Evaluation,Accuracy,"1,418.11","2,070.00",0.69,0.95,0.0,higher is better,%,0,-0.26,0.69,0.69,4,2023
+552,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Generative AI Quality Evaluation,Accuracy,524.35,697.00,0.75,0.95,0.0,higher is better,%,0,-0.2,0.75,0.75,5,2023
+553,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Generative AI Quality Evaluation,Average Handle Time,"26,956,607.81","780,754.00",0.35,0.1,1.0,lower is better,.,1,-24.53,34.53,34.53,3,2023
+554,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Generative AI Quality Evaluation,Average Handle Time,"40,584,773.76","895,563.00",0.45,0.1,1.0,lower is better,.,1,-35.32,45.32,45.32,4,2023
+555,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Generative AI Quality Evaluation,Average Handle Time,"7,187,133.83","226,356.00",0.32,0.1,1.0,lower is better,.,1,-21.75,31.75,31.75,5,2023
+556,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Genre Prediction,Average Handle Time,"6,224,715.81","135,700.00",0.46,0.45,0.0,lower is better,.,0,-0.87,45.87,45.87,1,2023
+557,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Genre Prediction,Average Handle Time,"2,420,711.32","48,565.00",0.5,0.45,0.0,lower is better,.,0,-4.84,49.84,49.84,2,2023
+558,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Group Reels Originality,Average Handle Time,"3,173,410.60","11,139.00",2.85,3.0,1.0,lower is better,.,1,15.11,284.89,284.89,1,2023
+559,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"16,102,978.66","220,896.00",0.73,1.2,1.0,lower is better,.,1,47.1,72.90,72.90,1,2023
+560,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"5,037,394.68","44,675.00",1.13,1.2,1.0,lower is better,.,1,7.24,112.76,112.76,1,2023
+561,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Health Ecosystem,Average Handle Time,"357,937.42","4,460.00",0.8,1.2,1.0,lower is better,.,1,39.74,80.26,80.26,1,2023
+562,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"14,663,268.73","182,870.00",0.8,1.2,1.0,lower is better,.,1,39.82,80.18,80.18,2,2023
+563,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"8,283,052.29","97,316.00",0.85,1.2,1.0,lower is better,.,1,34.88,85.12,85.12,2,2023
+564,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Speech Transcription,Accuracy,"6,267.95","6,332.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,2,2023
+565,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"17,249,369.12","224,297.00",0.77,1.2,1.0,lower is better,.,1,43.1,76.90,76.90,3,2023
+566,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"4,057,384.23","54,952.00",0.74,1.2,1.0,lower is better,.,1,46.16,73.84,73.84,3,2023
+567,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Health Ecosystem,Average Handle Time,"497,014.87","8,089.00",0.61,1.2,1.0,lower is better,.,1,58.56,61.44,61.44,3,2023
+568,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"15,790,648.96","183,849.00",0.86,1.2,1.0,lower is better,.,1,34.11,85.89,85.89,4,2023
+569,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"4,546,957.47","49,825.00",0.91,1.2,1.0,lower is better,.,1,28.74,91.26,91.26,4,2023
+570,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Health Ecosystem,Average Handle Time,"386,438.23","4,707.00",0.82,1.2,1.0,lower is better,.,1,37.9,82.10,82.10,4,2023
+571,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"2,369,693.79","25,954.00",0.91,1.2,1.0,lower is better,.,1,28.7,91.30,91.30,5,2023
+572,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Health Ecosystem,Average Handle Time,"478,894.05","5,254.00",0.91,1.2,1.0,lower is better,.,1,28.85,91.15,91.15,5,2023
+573,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Health Ecosystem,Precision,892.00,"1,035.00",0.86,0.8,1.0,higher is better,%,1,0.06,0.86,0.86,3,2023
+574,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Health Ecosystem,Precision,"2,791.00","3,216.00",0.87,0.8,1.0,higher is better,%,1,0.07,0.87,0.87,4,2023
+575,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,HG Vetting,Accuracy,"1,028.00","1,034.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+576,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,HG Vetting,Accuracy,535.00,535.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+577,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,HG Vetting,Average Handle Time,"7,700,789.95","77,395.00",1.0,1.2,1.0,lower is better,.,1,20.5,99.50,99.50,1,2023
+578,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,HG Vetting,Average Handle Time,"8,724.08",218.00,0.4,1.2,1.0,lower is better,.,1,79.98,40.02,40.02,1,2023
+579,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,HG Vetting,Average Handle Time,"6,127,270.26","73,436.00",0.83,1.2,1.0,lower is better,.,1,36.56,83.44,83.44,2,2023
+580,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,SUMA,Average Handle Time,"450,812.41","23,823.00",0.19,0.27,1.0,lower is better,.,1,7.81,18.92,18.92,2,2023
+581,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,HG Vetting,Average Handle Time,"95,443.72","1,279.00",0.75,1.2,1.0,lower is better,.,1,45.38,74.62,74.62,3,2023
+582,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Accuracy,"37,010.37","38,705.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,1,2023
+583,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Holiday Partners,Accuracy,0.00,10.00,0.0,0.9,0.0,higher is better,%,0,-0.9,0.00,0.00,1,2023
+584,2023JAN,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Accuracy,205.17,213.00,0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,1,2023
+585,2023JAN,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,Holiday Partners,Accuracy,73.08,80.00,0.91,0.9,1.0,higher is better,%,1,0.01,0.91,0.91,1,2023
+586,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Accuracy,"41,936.49","44,235.00",0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,2,2023
+587,2023FEB,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Accuracy,151.97,158.00,0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,2,2023
+588,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Accuracy,"42,580.21","45,290.00",0.94,0.9,1.0,higher is better,%,1,0.04,0.94,0.94,3,2023
+589,2023MAR,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Accuracy,82.72,90.00,0.92,0.9,1.0,higher is better,%,1,0.02,0.92,0.92,3,2023
+590,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Accuracy,"30,154.36","31,927.00",0.94,0.9,1.0,higher is better,%,1,0.04,0.94,0.94,4,2023
+591,2023APR,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Accuracy,86.70,91.00,0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,4,2023
+592,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Average Handle Time,"112,459,332.29","636,572.00",1.77,1.8,1.0,lower is better,.,1,3.34,176.66,176.66,1,2023
+593,2023JAN,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Average Handle Time,"552,637.13","3,088.00",1.79,1.8,1.0,lower is better,.,1,1.04,178.96,178.96,1,2023
+594,2023JAN,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,Holiday Partners,Average Handle Time,"390,163.85","1,225.00",3.18,1.8,0.0,lower is better,.,0,-138.5,318.50,318.50,1,2023
+595,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Average Handle Time,"106,091,628.51","670,711.00",1.58,1.8,1.0,lower is better,.,1,21.82,158.18,158.18,2,2023
+596,2023FEB,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Average Handle Time,"531,125.91","3,643.00",1.46,1.8,1.0,lower is better,.,1,34.21,145.79,145.79,2,2023
+597,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Average Handle Time,"120,711,713.08","1,107,816.00",1.09,1.8,1.0,lower is better,.,1,71.04,108.96,108.96,3,2023
+598,2023MAR,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Average Handle Time,"607,440.58","5,567.00",1.09,1.8,1.0,lower is better,.,1,70.89,109.11,109.11,3,2023
+599,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Average Handle Time,"108,535,817.19","891,079.00",1.22,1.8,1.0,lower is better,.,1,58.2,121.80,121.80,4,2023
+600,2023APR,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,Holiday Partners,Average Handle Time,"486,784.10","4,568.00",1.07,1.8,1.0,lower is better,.,1,73.44,106.56,106.56,4,2023
+601,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Holiday Partners,Average Handle Time,"7,207,072.24","44,223.00",1.63,1.8,1.0,lower is better,.,1,17.03,162.97,162.97,5,2023
+602,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,HowTo100M,Accuracy,572.12,602.00,0.95,0.95,1.0,higher is better,%,1,0.0,0.95,0.95,1,2023
+603,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,HowTo100M,Accuracy,809.76,833.00,0.97,0.95,1.0,higher is better,%,1,0.02,0.97,0.97,2,2023
+604,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,HowTo100M,Accuracy,280.59,282.00,1.0,0.95,1.0,higher is better,%,1,0.04,1.00,1.00,3,2023
+605,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,HowTo100M,Accuracy,1.00,1.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,4,2023
+606,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,HowTo100M,Average Handle Time,"27,735,684.69","31,424.00",8.83,16.2,1.0,lower is better,.,1,737.37,882.63,882.63,2,2023
+607,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,HowTo100M,Average Handle Time,"7,634,185.93","23,844.00",3.2,16.2,1.0,lower is better,.,1,1299.83,320.17,320.17,3,2023
+608,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,HowTo100M,Average Handle Time,"76,074.23",94.00,8.09,16.2,1.0,lower is better,.,1,810.7,809.30,809.30,5,2023
+609,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Brand Safety Reels Ads,Accuracy PROGRAM_NULL,262.72,283.00,0.93,0.95,0.0,higher is better,%,0,-0.02,0.93,0.93,4,2023
+610,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Hybrid,Frontier PDO,IG Brand Safety Reels Ads,Accuracy PROGRAM_NULL,3.70,4.00,0.93,0.95,0.0,higher is better,%,0,-0.02,0.93,0.93,4,2023
+611,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Brand Safety Reels Ads,Accuracy PROGRAM_NULL,3.84,4.00,0.96,0.95,1.0,higher is better,%,1,0.01,0.96,0.96,4,2023
+612,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Unknown,Frontier PDO,IG Brand Safety Reels Ads,Accuracy PROGRAM_NULL,1.00,1.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,4,2023
+613,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"29,920,970.81","390,454.00",0.77,0.8,1.0,lower is better,.,1,3.37,76.63,76.63,1,2023
+614,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"525,472.02","7,336.00",0.72,0.8,1.0,lower is better,.,1,8.37,71.63,71.63,1,2023
+615,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"24,985,494.36","318,435.00",0.78,0.8,1.0,lower is better,.,1,1.54,78.46,78.46,2,2023
+616,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"397,163.67","5,473.00",0.73,0.8,1.0,lower is better,.,1,7.43,72.57,72.57,2,2023
+617,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"28,039,741.06","358,494.00",0.78,0.8,1.0,lower is better,.,1,1.78,78.22,78.22,3,2023
+618,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"411,334.23","5,730.00",0.72,0.8,1.0,lower is better,.,1,8.21,71.79,71.79,3,2023
+619,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"28,956,902.55","361,844.00",0.8,0.8,0.0,lower is better,.,0,-0.03,80.03,80.03,4,2023
+620,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"477,443.23","6,407.00",0.75,0.8,1.0,lower is better,.,1,5.48,74.52,74.52,4,2023
+621,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"2,313,481.76","25,878.00",0.89,0.8,0.0,lower is better,.,0,-9.4,89.40,89.40,5,2023
+622,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Brand Safety Reels Ads,Average Handle Time,"34,307.64",473.00,0.73,0.8,1.0,lower is better,.,1,7.47,72.53,72.53,5,2023
+623,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Accuracy,"9,942.00","9,986.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+624,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Accuracy,"10,431.00","10,518.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,2,2023
+625,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Accuracy,"24,202.00","24,432.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,3,2023
+626,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Accuracy,"10,800.00","10,977.00",0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,4,2023
+627,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Accuracy,"3,239.00","3,291.00",0.98,0.9,1.0,higher is better,%,1,0.08,0.98,0.98,5,2023
+628,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Average Handle Time,"7,652,275.42","177,079.00",0.43,0.75,1.0,lower is better,.,1,31.79,43.21,43.21,1,2023
+629,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Average Handle Time,"8,935,948.69","200,408.00",0.45,0.75,1.0,lower is better,.,1,30.41,44.59,44.59,2,2023
+630,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Average Handle Time,"10,464,188.45","237,317.00",0.44,0.75,1.0,lower is better,.,1,30.91,44.09,44.09,3,2023
+631,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Average Handle Time,"9,524,553.51","223,343.00",0.43,0.75,1.0,lower is better,.,1,32.35,42.65,42.65,4,2023
+632,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CI,Average Handle Time,"1,306,231.55","27,570.00",0.47,0.75,1.0,lower is better,.,1,27.62,47.38,47.38,5,2023
+633,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CMP,Accuracy,"8,237.00","8,335.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,1,2023
+634,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,IG CMP,Accuracy,116.00,122.00,0.95,0.95,1.0,higher is better,%,1,0.0,0.95,0.95,1,2023
+635,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CMP,Accuracy,"7,462.00","7,467.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,2,2023
+636,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CMP,Average Handle Time,"27,965,644.56","307,403.00",0.91,1.8,1.0,lower is better,.,1,89.03,90.97,90.97,1,2023
+637,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,IG CMP,Average Handle Time,"376,655.64","4,679.00",0.8,1.8,1.0,lower is better,.,1,99.5,80.50,80.50,1,2023
+638,2023JAN,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,IG CMP,Average Handle Time,"147,107.56","1,697.00",0.87,1.8,1.0,lower is better,.,1,93.31,86.69,86.69,1,2023
+639,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG CMP,Average Handle Time,"28,334,368.57","343,241.00",0.83,1.8,1.0,lower is better,.,1,97.45,82.55,82.55,2,2023
+640,2023FEB,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,IG CMP,Average Handle Time,"469,704.51","6,123.00",0.77,1.8,1.0,lower is better,.,1,103.29,76.71,76.71,2,2023
+641,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Accuracy,"20,239.00","20,364.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,1,2023
+642,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Accuracy,"28,324.00","28,456.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,2,2023
+643,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Content Monetization Program,Accuracy,74.00,77.00,0.96,0.95,1.0,higher is better,%,1,0.01,0.96,0.96,2,2023
+644,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Accuracy,"1,154.00","1,180.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,2,2023
+645,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Content Monetization Program,Accuracy,"16,240.00","16,272.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,3,2023
+646,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Accuracy,"3,442.00","3,470.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,3,2023
+647,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,IG Content Monetization Program,Accuracy,54.00,54.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,3,2023
+648,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Unknown,Frontier PDO,IG Content Monetization Program,Accuracy,18.00,18.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,3,2023
+649,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Content Monetization Program,Accuracy,"34,079.00","34,567.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,4,2023
+650,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"100,730,191.06","1,152,033.00",0.87,1.8,1.0,lower is better,.,1,92.56,87.44,87.44,1,2023
+651,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Unknown,Frontier PDO,IG Content Monetization Program,Average Handle Time,"450,359.02","6,857.00",0.66,1.8,1.0,lower is better,.,1,114.32,65.68,65.68,1,2023
+652,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"159,990,644.04","1,980,280.00",0.81,1.8,1.0,lower is better,.,1,99.21,80.79,80.79,2,2023
+653,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Average Handle Time,"3,709,520.37","14,619.00",2.54,4.2,1.0,lower is better,.,1,166.25,253.75,253.75,2,2023
+654,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"29,298,035.61","353,706.00",0.83,1.8,1.0,lower is better,.,1,97.17,82.83,82.83,3,2023
+655,2023MAR,IN,IND - Indore City - Rangreza,Permanent WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"23,475.37",284.00,0.83,1.8,1.0,lower is better,.,1,97.34,82.66,82.66,3,2023
+656,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"82,559,055.55","1,188,531.00",0.69,1.8,1.0,lower is better,.,1,110.54,69.46,69.46,3,2023
+657,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Unknown,Frontier PDO,IG Content Monetization Program,Average Handle Time,"461,551.17","6,068.00",0.76,1.8,1.0,lower is better,.,1,103.94,76.06,76.06,3,2023
+658,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"29,805,887.88","372,026.00",0.8,1.8,1.0,lower is better,.,1,99.88,80.12,80.12,4,2023
+659,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"59,982,479.28","851,205.00",0.7,1.8,1.0,lower is better,.,1,109.53,70.47,70.47,4,2023
+660,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"2,753,553.12","31,745.00",0.87,1.8,1.0,lower is better,.,1,93.26,86.74,86.74,5,2023
+661,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Content Monetization Program,Average Handle Time,"5,744,424.81","74,346.00",0.77,1.8,1.0,lower is better,.,1,102.73,77.27,77.27,5,2023
+662,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Average Handle Time,"29,407,023.56","317,570.00",0.93,1.3,1.0,lower is better,.,1,37.4,92.60,92.60,1,2023
+663,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Average Handle Time,"32,899,272.76","313,683.00",1.05,1.3,1.0,lower is better,.,1,25.12,104.88,104.88,2,2023
+664,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Average Handle Time,"38,499,540.62","337,382.00",1.14,1.3,1.0,lower is better,.,1,15.89,114.11,114.11,3,2023
+665,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,IG Feed Brand Safety,Average Handle Time,"12,731.45",286.00,0.45,1.3,1.0,lower is better,.,1,85.48,44.52,44.52,3,2023
+666,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Average Handle Time,"41,041,865.37","309,589.00",1.33,1.3,0.0,lower is better,.,0,-2.57,132.57,132.57,4,2023
+667,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,IG Feed Brand Safety,Average Handle Time,"5,402.20",61.00,0.89,1.3,1.0,lower is better,.,1,41.44,88.56,88.56,4,2023
+668,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Average Handle Time,"4,285,225.09","31,003.00",1.38,1.3,0.0,lower is better,.,0,-8.22,138.22,138.22,5,2023
+669,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Precision,43.00,104.00,0.41,0.8,0.0,higher is better,%,0,-0.39,0.41,0.41,3,2023
+670,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Precision,64.00,109.00,0.59,0.8,1.0,higher is better,%,1,-0.21,0.59,0.59,4,2023
+671,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Recall,43.00,112.00,0.38,0.8,0.0,higher is better,%,0,-0.42,0.38,0.38,3,2023
+672,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Feed Brand Safety,Recall,64.00,121.00,0.53,0.8,1.0,higher is better,%,1,-0.27,0.53,0.53,4,2023
+673,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Live,Average Handle Time,"4,401,734.42","202,282.00",0.22,3.0,1.0,lower is better,.,1,278.24,21.76,21.76,1,2023
+674,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Live,Average Handle Time,"4,684,558.04","216,438.00",0.22,3.0,1.0,lower is better,.,1,278.36,21.64,21.64,2,2023
+675,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Maps,Accuracy,"34,926.00","34,926.00",1.0,0.91,1.0,higher is better,%,1,0.09,1.00,1.00,3,2023
+676,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Maps,Accuracy,"19,528.00","19,530.00",1.0,0.91,1.0,higher is better,%,1,0.09,1.00,1.00,4,2023
+677,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Maps,Accuracy,"4,455.00","4,457.00",1.0,0.91,1.0,higher is better,%,1,0.09,1.00,1.00,5,2023
+678,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Maps,Average Handle Time,"4,639,789.40","239,054.00",0.19,3.0,1.0,lower is better,.,1,280.59,19.41,19.41,3,2023
+679,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Maps,Average Handle Time,"3,927,746.77","214,147.00",0.18,0.3,1.0,lower is better,.,1,11.66,18.34,18.34,4,2023
+680,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Maps,Average Handle Time,"549,494.85","20,249.00",0.27,0.3,1.0,lower is better,.,1,2.86,27.14,27.14,5,2023
+681,2023JAN,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Accuracy,"8,439.00","9,186.00",0.92,0.9,1.0,higher is better,%,1,0.02,0.92,0.92,1,2023
+682,2023JAN,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Accuracy,"4,170.00","4,610.00",0.9,0.9,1.0,higher is better,%,1,0.0,0.90,0.90,1,2023
+683,2023JAN,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Accuracy,"1,107.00","1,197.00",0.92,0.9,1.0,higher is better,%,1,0.02,0.92,0.92,1,2023
+684,2023FEB,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Accuracy,636.00,684.00,0.93,0.9,1.0,higher is better,%,1,0.03,0.93,0.93,2,2023
+685,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Accuracy,164.00,174.00,0.94,0.87,1.0,higher is better,%,1,0.07,0.94,0.94,2,2023
+686,2023FEB,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Accuracy,87.00,92.00,0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,2,2023
+687,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier PDO,IG Originality,Accuracy,68.00,74.00,0.92,0.82,1.0,higher is better,%,1,0.1,0.92,0.92,3,2023
+688,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier PDO,IG Originality,Accuracy,82.00,88.00,0.93,0.82,1.0,higher is better,%,1,0.11,0.93,0.93,3,2023
+689,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,IG Originality,Accuracy,"25,666.00","27,300.00",0.94,0.82,1.0,higher is better,%,1,0.12,0.94,0.94,3,2023
+690,2023MAR,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Accuracy,"9,760.00","10,512.00",0.93,0.82,1.0,higher is better,%,1,0.11,0.93,0.93,3,2023
+691,2023MAR,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Accuracy,"3,952.00","4,168.00",0.95,0.82,1.0,higher is better,%,1,0.13,0.95,0.95,3,2023
+692,2023MAR,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Accuracy,"1,118.00","1,162.00",0.96,0.82,1.0,higher is better,%,1,0.14,0.96,0.96,3,2023
+693,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,IG Originality,Accuracy,"8,752.00","9,326.00",0.94,0.82,1.0,higher is better,%,1,0.12,0.94,0.94,4,2023
+694,2023APR,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Accuracy,"4,854.00","5,304.00",0.92,0.82,1.0,higher is better,%,1,0.1,0.92,0.92,4,2023
+695,2023APR,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Accuracy,"2,018.00","2,230.00",0.9,0.82,1.0,higher is better,%,1,0.08,0.90,0.90,4,2023
+696,2023APR,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Accuracy,548.00,619.00,0.89,0.82,1.0,higher is better,%,1,0.07,0.89,0.89,4,2023
+697,2023MAY,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Accuracy,15.00,15.00,1.0,0.82,1.0,higher is better,%,1,0.18,1.00,1.00,5,2023
+698,2023JAN,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Average Handle Time,"18,442,179.66","195,334.00",0.94,0.45,0.0,lower is better,.,0,-49.41,94.41,94.41,1,2023
+699,2023JAN,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Average Handle Time,"7,322,562.03","80,430.00",0.91,0.45,0.0,lower is better,.,0,-46.04,91.04,91.04,1,2023
+700,2023JAN,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"2,477,692.81","24,778.00",1.0,0.45,0.0,lower is better,.,0,-55.0,100.00,100.00,1,2023
+701,2023FEB,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Average Handle Time,"17,421,474.96","207,404.00",0.84,0.9,1.0,lower is better,.,1,6.0,84.00,84.00,2,2023
+702,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Precision,52.00,55.00,0.95,0.92,1.0,higher is better,%,1,0.03,0.95,0.95,2,2023
+703,2023FEB,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"2,142,980.38","23,242.00",0.92,0.9,0.0,lower is better,.,0,-2.2,92.20,92.20,2,2023
+704,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier PDO,IG Originality,Average Handle Time,"148,206.39",500.00,2.96,1.21,0.0,lower is better,.,0,-175.41,296.41,296.41,3,2023
+705,2023MAR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"60,771,567.77","684,766.00",0.89,1.21,1.0,lower is better,.,1,32.25,88.75,88.75,3,2023
+706,2023MAR,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Average Handle Time,"23,480,490.02","301,545.00",0.78,0.9,1.0,lower is better,.,1,12.13,77.87,77.87,3,2023
+707,2023MAR,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Average Handle Time,"9,391,728.21","114,933.00",0.82,0.9,1.0,lower is better,.,1,8.29,81.71,81.71,3,2023
+708,2023MAR,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"2,912,693.65","34,864.00",0.84,0.9,1.0,lower is better,.,1,6.46,83.54,83.54,3,2023
+709,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"57,496,916.60","538,902.00",1.07,1.21,1.0,lower is better,.,1,14.31,106.69,106.69,4,2023
+710,2023APR,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Average Handle Time,"20,607,691.45","227,700.00",0.9,1.25,1.0,lower is better,.,1,34.5,90.50,90.50,4,2023
+711,2023APR,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Average Handle Time,"8,392,394.98","91,643.00",0.92,1.25,1.0,lower is better,.,1,33.42,91.58,91.58,4,2023
+712,2023APR,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"2,389,630.98","26,204.00",0.91,1.25,1.0,lower is better,.,1,33.81,91.19,91.19,4,2023
+713,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Originality,Average Handle Time,"1,290,543.47","8,941.00",1.44,1.21,0.0,lower is better,.,0,-23.34,144.34,144.34,5,2023
+714,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,IG Originality,Average Handle Time,"41,450.43",328.00,1.26,1.21,0.0,lower is better,.,0,-5.37,126.37,126.37,5,2023
+715,2023MAY,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"7,624,725.33","81,856.00",0.93,1.21,1.0,lower is better,.,1,27.85,93.15,93.15,5,2023
+716,2023MAY,NAM,USA - San Antonio - Cirrus,Current WFH,Frontier PDO,IG Originality,Average Handle Time,"2,976,233.23","14,796.00",2.01,1.25,0.0,lower is better,.,0,-76.15,201.15,201.15,5,2023
+717,2023MAY,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Average Handle Time,"1,297,249.20","7,083.00",1.83,1.25,0.0,lower is better,.,0,-58.15,183.15,183.15,5,2023
+718,2023MAY,NAM,USA - San Antonio - Cirrus,Permanent WFH,Frontier PDO,IG Originality,Average Handle Time,"314,883.41","1,711.00",1.84,1.25,0.0,lower is better,.,0,-59.03,184.03,184.03,5,2023
+719,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Accuracy,"12,076.00","12,099.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+720,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Accuracy,"17,173.00","17,227.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+721,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Partner Monetization Program,Accuracy,"51,662.00","51,754.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,3,2023
+722,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Accuracy,0.00,14.00,0.0,0.9,0.0,higher is better,%,0,-0.9,0.00,0.00,3,2023
+723,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Partner Monetization Program,Accuracy,"18,303.00","18,361.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,4,2023
+724,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"19,328,607.91","233,724.00",0.83,1.8,1.0,lower is better,.,1,97.3,82.70,82.70,1,2023
+725,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"17,862,823.66","249,465.00",0.72,1.8,1.0,lower is better,.,1,108.4,71.60,71.60,2,2023
+726,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"23,164,595.28","332,517.00",0.7,1.8,1.0,lower is better,.,1,110.34,69.66,69.66,3,2023
+727,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"20,481,065.22","352,018.00",0.58,1.8,1.0,lower is better,.,1,121.82,58.18,58.18,3,2023
+728,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"20,492,033.74","277,625.00",0.74,1.8,1.0,lower is better,.,1,106.19,73.81,73.81,4,2023
+729,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"17,701,670.56","294,522.00",0.6,1.8,1.0,lower is better,.,1,119.9,60.10,60.10,4,2023
+730,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"1,888,424.17","21,731.00",0.87,1.8,1.0,lower is better,.,1,93.1,86.90,86.90,5,2023
+731,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Partner Monetization Program,Average Handle Time,"1,824,673.99","23,932.00",0.76,1.8,1.0,lower is better,.,1,103.76,76.24,76.24,5,2023
+732,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG PMP,Accuracy,"22,649.31","22,692.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,1,2023
+733,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG PMP,Accuracy,"20,481.00","20,504.00",1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,2,2023
+734,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG PMP,Average Handle Time,"21,421,779.29","302,914.00",0.71,1.8,1.0,lower is better,.,1,109.28,70.72,70.72,1,2023
+735,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG PMP,Average Handle Time,"18,482,845.13","256,525.00",0.72,1.8,1.0,lower is better,.,1,107.95,72.05,72.05,2,2023
+736,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Shopping Commerce Quality,Accuracy,"122,454.00","124,183.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+737,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Shopping Commerce Quality,Accuracy,"207,722.97","210,001.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+738,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,IG Shopping Commerce Quality,Accuracy,"7,394.01","7,460.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+739,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,IG Shopping Commerce Quality,Average Handle Time,"7,318,757.77","539,587.00",0.14,0.2,1.0,lower is better,.,1,6.44,13.56,13.56,1,2023
+740,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,IG Shopping Commerce Quality,Average Handle Time,"19,852,890.10","1,528,465.00",0.13,0.2,1.0,lower is better,.,1,7.01,12.99,12.99,1,2023
+741,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,IG Shopping Commerce Quality,Average Handle Time,"779,099.74","55,426.00",0.14,0.2,1.0,lower is better,.,1,5.94,14.06,14.06,1,2023
+742,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Inspiration ML,Average Handle Time,"359,680.03","6,241.00",0.58,0.6,1.0,lower is better,.,1,2.37,57.63,57.63,3,2023
+743,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Inspiration ML,Average Handle Time,"899,810.04","15,808.00",0.57,0.6,1.0,lower is better,.,1,3.08,56.92,56.92,4,2023
+744,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Inspiration ML,Average Handle Time,"128,423.83","2,505.00",0.51,0.6,1.0,lower is better,.,1,8.73,51.27,51.27,5,2023
+745,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Accuracy,"50,736.00","53,550.00",0.95,0.9,1.0,higher is better,%,1,0.05,0.95,0.95,1,2023
+746,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Accuracy,"56,586.00","58,470.00",0.97,0.9,1.0,higher is better,%,1,0.07,0.97,0.97,2,2023
+747,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Accuracy,"134,970.00","140,920.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,3,2023
+748,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Average Handle Time,"4,272,005.16","73,438.00",0.58,0.7,1.0,lower is better,.,1,11.83,58.17,58.17,1,2023
+749,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Average Handle Time,"3,524,780.02","61,680.00",0.57,0.7,1.0,lower is better,.,1,12.85,57.15,57.15,2,2023
+750,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Average Handle Time,"4,198,743.01","76,575.00",0.55,0.7,1.0,lower is better,.,1,15.17,54.83,54.83,3,2023
+751,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Average Handle Time,"3,456,991.62","64,206.00",0.54,0.7,1.0,lower is better,.,1,16.16,53.84,53.84,4,2023
+752,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Intent Labeling,Average Handle Time,"568,492.14","10,190.00",0.56,0.7,1.0,lower is better,.,1,14.21,55.79,55.79,5,2023
+753,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Linguists,Accuracy,120.00,120.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+754,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Linguists,Accuracy,"10,084.00","10,084.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+755,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Linguists,Average Handle Time,"66,912.99",433.00,1.55,1.25,0.0,lower is better,.,0,-29.33,154.53,154.53,1,2023
+756,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Linguists,Average Handle Time,"4,575,411.75","64,958.00",0.7,1.25,1.0,lower is better,.,1,54.76,70.44,70.44,1,2023
+757,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,MQ Active Objects,Accuracy,501.84,526.00,0.95,0.95,1.0,higher is better,%,1,0.0,0.95,0.95,1,2023
+758,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,MQ Active Objects,Accuracy,58.06,59.00,0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,2,2023
+759,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,MQ Active Objects,Accuracy,"1,226.98","1,240.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,3,2023
+760,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pages Integrity,Accuracy,453.00,453.00,1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,2,2023
+761,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier BI,BI - Political,Recall,52.00,57.00,0.91,0.85,1.0,higher is better,%,1,0.06,0.91,0.91,2,2023
+762,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pages Integrity,Accuracy,"1,982.00","1,986.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,3,2023
+763,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Accuracy,"20,820.00","20,842.00",1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,3,2023
+764,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pages Integrity,Accuracy,741.00,741.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+765,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Accuracy,"5,682.00","5,688.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+766,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Average Handle Time,"4,282,369.28","110,367.00",0.39,2.4,1.0,lower is better,.,1,201.2,38.80,38.80,1,2023
+767,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier PDO,Account Originality,Accuracy,134.00,150.00,0.89,0.82,1.0,higher is better,%,1,0.07,0.89,0.89,2,2023
+768,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pages Integrity,Average Handle Time,"573,399.34","11,401.00",0.5,1.08,1.0,lower is better,.,1,57.21,50.29,50.29,3,2023
+769,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Average Handle Time,"4,308,206.55","107,540.00",0.4,1.08,1.0,lower is better,.,1,67.44,40.06,40.06,3,2023
+770,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pages Integrity,Average Handle Time,"660,867.13","13,963.00",0.47,1.08,1.0,lower is better,.,1,60.17,47.33,47.33,4,2023
+771,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Average Handle Time,"4,123,063.44","98,298.00",0.42,1.08,1.0,lower is better,.,1,65.56,41.94,41.94,4,2023
+772,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pages Integrity,Average Handle Time,"38,229.86",645.00,0.59,1.08,1.0,lower is better,.,1,48.23,59.27,59.27,5,2023
+773,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pages Integrity,Average Handle Time,"270,548.20","5,293.00",0.51,1.08,1.0,lower is better,.,1,56.39,51.11,51.11,5,2023
+774,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pittsburgh,Accuracy,394.00,446.00,0.88,0.8,1.0,higher is better,%,1,0.08,0.88,0.88,3,2023
+775,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pittsburgh,Accuracy,106.00,114.00,0.93,0.8,1.0,higher is better,%,1,0.13,0.93,0.93,3,2023
+776,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Pittsburgh,Accuracy,"6,166.00","6,336.00",0.97,0.8,1.0,higher is better,%,1,0.17,0.97,0.97,3,2023
+777,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pittsburgh,Accuracy,406.00,425.00,0.96,0.8,1.0,higher is better,%,1,0.16,0.96,0.96,4,2023
+778,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Pittsburgh,Accuracy,55.00,56.00,0.98,0.8,1.0,higher is better,%,1,0.18,0.98,0.98,4,2023
+779,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Pittsburgh,Accuracy,"3,910.00","4,035.00",0.97,0.8,1.0,higher is better,%,1,0.17,0.97,0.97,4,2023
+780,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Pittsburgh,Accuracy,74.00,76.00,0.97,0.8,1.0,higher is better,%,1,0.17,0.97,0.97,5,2023
+781,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Pittsburgh,Accuracy,643.00,666.00,0.97,0.8,1.0,higher is better,%,1,0.17,0.97,0.97,5,2023
+782,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Post Quality Conversation,Accuracy,82.00,84.00,0.98,0.8,1.0,higher is better,%,1,0.18,0.98,0.98,2,2023
+783,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Post Quality Conversation,Accuracy,42.00,42.00,1.0,0.8,1.0,higher is better,%,1,0.2,1.00,1.00,3,2023
+784,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Post Quality Conversation,Average Handle Time,"2,788,239.80","17,014.00",1.64,1.8,1.0,lower is better,.,1,16.12,163.88,163.88,1,2023
+785,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Post Quality Conversation,Average Handle Time,"827,472.45","8,447.00",0.98,1.8,1.0,lower is better,.,1,82.04,97.96,97.96,2,2023
+786,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Post Quality Conversation,Average Handle Time,"248,309.65","2,758.00",0.9,1.8,1.0,lower is better,.,1,89.97,90.03,90.03,3,2023
+787,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Accuracy,"15,073.00","15,313.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,1,2023
+788,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Accuracy,"13,597.00","13,813.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,2,2023
+789,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Accuracy,"55,906.00","56,528.00",0.99,0.93,1.0,higher is better,%,1,0.06,0.99,0.99,3,2023
+790,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Accuracy,"20,913.00","21,171.00",0.99,0.93,1.0,higher is better,%,1,0.06,0.99,0.99,4,2023
+791,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Accuracy,"4,543.00","4,575.00",0.99,0.93,1.0,higher is better,%,1,0.06,0.99,0.99,5,2023
+792,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Average Handle Time,"13,158,186.65","404,657.00",0.33,0.35,1.0,lower is better,.,1,2.48,32.52,32.52,1,2023
+793,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Average Handle Time,"11,591,346.50","369,717.00",0.31,0.35,1.0,lower is better,.,1,3.65,31.35,31.35,2,2023
+794,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Average Handle Time,"13,034,261.86","396,638.00",0.33,0.35,1.0,lower is better,.,1,2.14,32.86,32.86,3,2023
+795,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Average Handle Time,"11,720,326.86","356,993.00",0.33,0.35,1.0,lower is better,.,1,2.17,32.83,32.83,4,2023
+796,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Prevalence Measurement - Equity Status Fairness,Average Handle Time,"1,593,474.47","46,403.00",0.34,0.35,1.0,lower is better,.,1,0.66,34.34,34.34,5,2023
+797,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Project Amplify/Convey,Accuracy,"1,259.00","1,277.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,1,2023
+798,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Project Amplify/Convey,Accuracy,547.00,550.00,0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,1,2023
+799,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Project Amplify/Convey,Accuracy,"1,040.00","1,051.00",0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,2,2023
+800,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier PDO,Account Originality,Average Handle Time,"486,586.51","3,768.00",1.29,1.21,0.0,lower is better,.,0,-8.14,129.14,129.14,2,2023
+801,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Project Amplify/Convey,Average Handle Time,"2,280,982.03","73,706.00",0.31,0.36,1.0,lower is better,.,1,5.15,30.95,30.95,1,2023
+802,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Project Amplify/Convey,Average Handle Time,"1,267,940.71","51,741.00",0.25,0.36,1.0,lower is better,.,1,11.59,24.51,24.51,1,2023
+803,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Current WFH,Frontier PDO,Project Amplify/Convey,Average Handle Time,"1,545,718.72","52,275.00",0.3,0.36,1.0,lower is better,.,1,6.53,29.57,29.57,2,2023
+804,2023FEB,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier PDO,Ariane Box,Accuracy,2.00,2.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,2,2023
+805,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Reels Content Moderation,Average Handle Time,"372,175.68","1,913.00",1.95,0.75,0.0,lower is better,.,0,-119.55,194.55,194.55,2,2023
+806,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Reels Content Moderation-Originality,Average Handle Time,"8,179,578.65","54,740.00",1.49,1.54,1.0,lower is better,.,1,4.57,149.43,149.43,3,2023
+807,2023MAR,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,Reels Content Moderation-Originality,Average Handle Time,"2,103,983.47","14,218.00",1.48,1.54,1.0,lower is better,.,1,6.02,147.98,147.98,3,2023
+808,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Reels Content Moderation-Originality,Average Handle Time,"3,682,425.16","23,585.00",1.56,1.54,0.0,lower is better,.,0,-2.13,156.13,156.13,4,2023
+809,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"6,823,122.68","43,825.00",1.56,1.0,0.0,lower is better,.,0,-55.69,155.69,155.69,2,2023
+810,2023FEB,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Accuracy,205.00,227.00,0.9,0.9,1.0,higher is better,%,1,0.0,0.90,0.90,2,2023
+811,2023MAR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"53,178,660.64","413,369.00",1.29,1.5,1.0,lower is better,.,1,21.35,128.65,128.65,3,2023
+812,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"528,769.52","4,682.00",1.13,1.5,1.0,lower is better,.,1,37.06,112.94,112.94,3,2023
+813,2023MAR,IN,IND - Indore City - Rangreza,Unknown,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"14,399,994.32","149,617.00",0.96,1.5,1.0,lower is better,.,1,53.75,96.25,96.25,3,2023
+814,2023APR,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"66,199,090.78","472,274.00",1.4,1.5,1.0,lower is better,.,1,9.83,140.17,140.17,4,2023
+815,2023APR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"378,536.65","2,637.00",1.44,1.5,1.0,lower is better,.,1,6.45,143.55,143.55,4,2023
+816,2023MAY,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Reels Content Moderation-Watchbait,Average Handle Time,"11,459,976.31","76,966.00",1.49,1.5,1.0,lower is better,.,1,1.1,148.90,148.90,5,2023
+817,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SCD Classifier Training Label Collection,Average Handle Time,"31,913,347.15","281,842.00",1.13,1.8,1.0,lower is better,.,1,66.77,113.23,113.23,2,2023
+818,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SCD Classifier Training Label Collection,Average Handle Time,"15,671,482.17","103,146.00",1.52,1.8,1.0,lower is better,.,1,28.07,151.93,151.93,3,2023
+819,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SCD Classifier Training Label Collection,Average Handle Time,"7,390,521.14","50,343.00",1.47,1.8,1.0,lower is better,.,1,33.2,146.80,146.80,4,2023
+820,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SCD Classifier Training Label Collection,Average Handle Time,"1,441,865.11","10,667.00",1.35,1.8,1.0,lower is better,.,1,44.83,135.17,135.17,5,2023
+821,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Special Categories Data,Accuracy,1.00,2.00,0.5,0.95,0.0,higher is better,%,0,-0.45,0.50,0.50,1,2023
+822,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Special Categories Data,Average Handle Time,"39,758,017.17","333,005.00",1.19,1.8,1.0,lower is better,.,1,60.61,119.39,119.39,1,2023
+823,2023JAN,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier PDO,Special Categories Data,Average Handle Time,"2,817,025.78","32,490.00",0.87,1.8,1.0,lower is better,.,1,93.3,86.70,86.70,1,2023
+824,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Speech Transcription,Accuracy,29.90,31.00,0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,1,2023
+825,2023JAN,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Speech Transcription,Accuracy,"6,918.86","6,974.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+826,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Speech Transcription,Accuracy,"6,797.84","6,886.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,1,2023
+827,2023FEB,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Speech Transcription,Accuracy,173.83,174.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+828,2023FEB,NAM,USA - San Antonio - Cirrus,Onsite,Frontier PDO,IG Originality,Average Handle Time,"6,917,084.50","78,698.00",0.88,0.9,1.0,lower is better,.,1,2.11,87.89,87.89,2,2023
+829,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Assistant Language,Accuracy,"2,808.00","2,808.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,2,2023
+830,2023MAR,IN,IND - Indore City - Rangreza,Onsite,Frontier PDO,Speech Transcription,Accuracy,"10,219.24","10,368.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,3,2023
+831,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Speech Transcription,Accuracy,"9,933.04","10,082.00",0.99,0.9,1.0,higher is better,%,1,0.09,0.99,0.99,3,2023
+832,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SUMA,Average Handle Time,"52,996,713.76","4,430,358.00",0.12,0.27,1.0,lower is better,.,1,14.77,11.96,11.96,1,2023
+833,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,SUMA,Average Handle Time,"142,578.72","2,720.00",0.52,0.27,0.0,lower is better,.,0,-25.69,52.42,52.42,1,2023
+834,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SUMA,Average Handle Time,"46,879,991.44","4,213,836.00",0.11,0.27,1.0,lower is better,.,1,15.6,11.13,11.13,2,2023
+835,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Assistant Language,Average Handle Time,"3,547,212.97","36,345.00",0.98,1.25,1.0,lower is better,.,1,27.6,97.60,97.60,2,2023
+836,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SUMA,Average Handle Time,"55,352,370.98","4,849,368.00",0.11,0.27,1.0,lower is better,.,1,15.32,11.41,11.41,3,2023
+837,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,SUMA,Average Handle Time,"519,901.49","32,049.00",0.16,0.27,1.0,lower is better,.,1,10.51,16.22,16.22,3,2023
+838,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SUMA,Average Handle Time,"44,194,076.71","4,462,179.00",0.1,0.27,1.0,lower is better,.,1,16.83,9.90,9.90,4,2023
+839,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,SUMA,Average Handle Time,"411,703.44","27,890.00",0.15,0.27,1.0,lower is better,.,1,11.97,14.76,14.76,4,2023
+840,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,SUMA,Average Handle Time,"6,389,659.62","555,956.00",0.11,0.27,1.0,lower is better,.,1,15.24,11.49,11.49,5,2023
+841,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,SUMA,Average Handle Time,"49,795.70","3,365.00",0.15,0.27,1.0,lower is better,.,1,11.93,14.80,14.80,5,2023
+842,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Taxonomy,Accuracy,"3,983.89","3,998.00",1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,1,2023
+843,2023JAN,IN,IND - Indore City - Rangreza,Current WFH,Frontier PDO,Taxonomy,Average Handle Time,"1,912,193.77","13,832.00",1.38,2.0,1.0,lower is better,.,1,61.76,138.24,138.24,1,2023
+844,2023MAR,NAM,USA - San Antonio - Lizzy's Toy Emporium,Current WFH,Frontier PDO,unknown,Accuracy,160.00,182.00,0.88,0.85,1.0,higher is better,%,1,0.03,0.88,0.88,3,2023
+845,2023MAR,NAM,USA - San Antonio - Lizzy's Toy Emporium,Current WFH,Frontier PDO,unknown,Average Handle Time,"187,685.81","5,476.00",0.34,0.36,1.0,lower is better,.,1,1.83,34.27,34.27,3,2023
+846,2023MAR,NAM,USA - San Antonio - Lizzy's Toy Emporium,Onsite,Frontier PDO,unknown,Average Handle Time,"947,602.02","15,912.00",0.6,1.03,1.0,lower is better,.,1,43.38,59.55,59.55,3,2023
+847,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Accuracy,"24,982.00","25,541.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,1,2023
+848,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Accuracy,753.00,770.00,0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,1,2023
+849,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Accuracy,70.00,72.00,0.97,0.93,1.0,higher is better,%,1,0.04,0.97,0.97,1,2023
+850,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Accuracy,"34,911.00","35,711.00",0.98,0.93,1.0,higher is better,%,1,0.05,0.98,0.98,2,2023
+851,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Project Amplify/Convey,Accuracy,649.00,650.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,2,2023
+852,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Accuracy,135.00,137.00,0.99,0.93,1.0,higher is better,%,1,0.06,0.99,0.99,2,2023
+853,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Accuracy,"15,116.00","15,450.00",0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,3,2023
+854,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Accuracy,208.00,210.00,0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,3,2023
+855,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Accuracy,10.00,10.00,1.0,0.95,1.0,higher is better,%,1,0.05,1.00,1.00,3,2023
+856,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Accuracy,"27,552.75","28,070.00",0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,4,2023
+857,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Accuracy,681.00,694.00,0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,4,2023
+858,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Accuracy,60.00,61.00,0.98,0.95,1.0,higher is better,%,1,0.03,0.98,0.98,4,2023
+859,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Accuracy,266.97,269.00,0.99,0.95,1.0,higher is better,%,1,0.04,0.99,0.99,5,2023
+860,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Average Handle Time,"107,509,091.52","517,258.00",2.08,4.2,1.0,lower is better,.,1,212.16,207.84,207.84,1,2023
+861,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Average Handle Time,"4,191,957.58","15,370.00",2.73,4.2,1.0,lower is better,.,1,147.26,272.74,272.74,1,2023
+862,2023JAN,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Average Handle Time,"458,452.16","1,482.00",3.09,4.2,1.0,lower is better,.,1,110.65,309.35,309.35,1,2023
+863,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Average Handle Time,"95,658,849.54","459,201.00",2.08,4.2,1.0,lower is better,.,1,211.68,208.32,208.32,2,2023
+864,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier PDO,Project Amplify/Convey,Average Handle Time,"1,179,845.38","49,671.00",0.24,0.36,1.0,lower is better,.,1,12.35,23.75,23.75,2,2023
+865,2023FEB,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Average Handle Time,"402,999.21","1,496.00",2.69,4.2,1.0,lower is better,.,1,150.62,269.38,269.38,2,2023
+866,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Average Handle Time,"108,481,082.74","540,226.00",2.01,4.05,1.0,lower is better,.,1,204.19,200.81,200.81,3,2023
+867,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Average Handle Time,"3,995,640.30","18,544.00",2.15,4.05,1.0,lower is better,.,1,189.53,215.47,215.47,3,2023
+868,2023MAR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Average Handle Time,"407,884.20","1,645.00",2.48,4.05,1.0,lower is better,.,1,157.05,247.95,247.95,3,2023
+869,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Average Handle Time,"93,326,128.20","461,687.00",2.02,4.05,1.0,lower is better,.,1,202.86,202.14,202.14,4,2023
+870,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Average Handle Time,"3,412,698.86","15,672.00",2.18,4.05,1.0,lower is better,.,1,187.24,217.76,217.76,4,2023
+871,2023APR,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Average Handle Time,"386,440.30","1,293.00",2.99,4.05,1.0,lower is better,.,1,106.13,298.87,298.87,4,2023
+872,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Current WFH,Frontier PDO,Video Integrity,Average Handle Time,"15,847,186.38","80,832.00",1.96,4.05,1.0,lower is better,.,1,208.95,196.05,196.05,5,2023
+873,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Onsite,Frontier PDO,Video Integrity,Average Handle Time,"866,942.42","3,713.00",2.33,4.05,1.0,lower is better,.,1,171.51,233.49,233.49,5,2023
+874,2023MAY,SEA,PHL - Antipolo - Lizzy's Watchtower,Permanent WFH,Frontier PDO,Video Integrity,Average Handle Time,"106,053.64",372.00,2.85,4.05,1.0,lower is better,.,1,119.91,285.09,285.09,5,2023
+875,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Current WFH,Frontier RP,Risk and Payments,Accuracy Risks and Payments,210.45,228.00,0.92,0.9,1.0,higher is better,%,1,0.02,0.92,0.92,4,2023
+876,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Onsite,Frontier RP,Risk and Payments,Accuracy Risks and Payments,12.00,12.00,1.0,0.9,1.0,higher is better,%,1,0.1,1.00,1.00,4,2023
+877,2023APR,SEA,PHL - Quezon City - Chateau Ridiculous,Permanent WFH,Frontier RP,Risk and Payments,Accuracy Risks and Payments,"2,452.50","2,545.00",0.96,0.9,1.0,higher is better,%,1,0.06,0.96,0.96,4,2023
+878,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Boost Up CSAT,201.66,206.00,0.98,0.85,1.0,higher is better,%,1,0.13,0.98,0.98,1,2023
+879,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Boost Up CSAT,39.00,39.00,1.0,0.85,1.0,higher is better,%,1,0.15,1.00,1.00,2,2023
+880,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Pitched Calls per Agent per Workday,"1,783.00",453.00,0.04,0.03,1.0,higher is better,.,1,0.64,3.94,3.94,1,2023
+881,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Pitched Calls per Agent per Workday,"1,326.00",366.00,0.04,0.03,1.0,higher is better,.,1,0.32,3.62,3.62,2,2023
+882,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Pitched Chat per ME per Workday,951.00,471.00,0.02,0.02,0.0,higher is better,.,0,-0.48,2.02,2.02,1,2023
+883,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Pitched Chat per ME per Workday,845.00,345.00,0.02,0.02,0.0,higher is better,.,0,-0.05,2.45,2.45,2,2023
+884,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Solution Score Per Agent WD Boost Up,720.63,481.00,0.02,0.01,1.0,higher is better,.,1,0.73,1.50,1.50,1,2023
+885,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Solution Score Per Agent WD Boost Up,"1,399.62",484.00,0.03,0.01,1.0,higher is better,.,1,2.12,2.89,2.89,2,2023
+886,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Solution Score Per Agent WD Chat,108.82,85.00,0.01,0.01,1.0,higher is better,.,1,0.53,1.28,1.28,1,2023
+887,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Solution Score Per Agent WD Chat,594.30,229.00,0.03,0.01,1.0,higher is better,.,1,1.85,2.60,2.60,2,2023
+888,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Solution Score Per Agent WD IG Boost Up,203.05,166.00,0.01,0.01,1.0,higher is better,.,1,0.45,1.22,1.22,1,2023
+889,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Solution Score Per Agent WD IG Boost Up,391.75,190.00,0.02,0.01,1.0,higher is better,.,1,1.29,2.06,2.06,2,2023
+890,2023JAN,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Total Attempts per Workday,"30,061.00",470.00,0.64,0.6,1.0,higher is better,.,1,3.96,63.96,63.96,1,2023
+891,2023FEB,NAM,USA - San Antonio - Lizzy's Clubhouse,Onsite,Frontier Sales,Sales,Total Attempts per Workday,"31,011.00",445.00,0.7,0.6,1.0,higher is better,.,1,9.69,69.69,69.69,2,2023
