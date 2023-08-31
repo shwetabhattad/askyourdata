@@ -197,14 +197,17 @@ def main():
                 #plt.ion()
                 llm = OpenAI(api_token=apikey)
                 pandas_ai = PandasAI(llm)
-                #graphContinueExecutionText = " Use plt.show(block = false)"
-                #question += graphContinueExecutionText
-                answer = pandas_ai.run(gpr_df,question)
-                if type(answer)==str:
+                try:
+                    answer = pandas_ai.run(gpr_df,question)
+                    #if type(answer)==str:
                     st.write(answer)
-                image = Image.open(current_dir/exports/charts/"temp_chart.png")
-                if image:
-                    st.image(image, caption='Graph')
+                except Exception as e:
+                    st.error("An error occurred: either your API token is invalid \or no code was found in the response generated.")
+                if len(plt.get_fignums()) > 0:
+                    fig = plt.gcf()
+                    st.session_state.plots.append(fig)
+                else:
+                    st.session_state.plots.append("None")   
 
         elif option=='Largest US Companies':
             print('here')
