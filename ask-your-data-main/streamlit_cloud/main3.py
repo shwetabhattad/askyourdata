@@ -25,6 +25,8 @@ from pathlib import Path
 current_dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 #from current_dir/configuration/"githubkey.py" import gitapikey
 #print(gitapikey)
+parentDirectory = os.path.abspath(os.path.join(os.getcwd(), os.pardir))
+print(parentDirectory)
 def main():
     #def logout():
     #    st.session_state.clear()
@@ -201,6 +203,11 @@ def main():
                     answer = pandas_ai.run(gpr_df,question)
                     #if type(answer)==str:
                     st.write(answer)
+                    #path=parentDirectory+'\\src\\exports\\charts\\temp_chart.png'
+                    #print(path)
+                    image = Image.open(current_dir/exports/charts/"temp_chart.png")
+                    st.image(image, caption='graph')
+                    
                 except Exception as e:
                     st.error("An error occurred: either your API token is invalid \or no code was found in the response generated.")
                 if len(plt.get_fignums()) > 0:
