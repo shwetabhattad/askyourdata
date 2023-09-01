@@ -201,8 +201,8 @@ def main():
                 pandas_ai = PandasAI(llm)
                 try:
                     answer = pandas_ai.run(gpr_df,question)
-                    #if type(answer)==str:
-                    st.write(answer)
+                    if 'plot' not in question.lower():
+                        st.write(answer)
                     #path=parentDirectory+'\\src\\exports\\charts\\temp_chart.png'
                     #print(path)
                     image = Image.open(current_dir/exports/charts/"temp_chart.png")
