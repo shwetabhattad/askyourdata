@@ -210,11 +210,11 @@ def main():
                     
                 except Exception as e:
                     st.error("An error occurred: either your API token is invalid \or no code was found in the response generated.")
-                if len(plt.get_fignums()) > 0:
-                    fig = plt.gcf()
-                    st.session_state.plots.append(fig)
-                else:
-                    st.session_state.plots.append("None")   
+                # if len(plt.get_fignums()) > 0:
+                #     fig = plt.gcf()
+                #     st.session_state.plots.append(fig)
+                # else:
+                #     st.session_state.plots.append("None")   
 
         elif option=='Largest US Companies':
             print('here')
